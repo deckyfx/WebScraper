@@ -14,7 +14,7 @@ npm install -d
 
 tsc build
 
-./bin/scrap --url https://github.com/deckyfx/WebScraper --xpath '//*[@id="js-repo-pjax-container"]/div[2]/div[1]/div[1]/div[1]/div/span' --property href
+./bin/scrap --url https://github.com/deckyfx/WebScraper --xpath '//*[@id="js-repo-pjax-container"]/div[2]/div[1]/div[1]/div[1]/div/span' --property textContent
 
 ./bin/scrap --config {path to your config file}
 ```
