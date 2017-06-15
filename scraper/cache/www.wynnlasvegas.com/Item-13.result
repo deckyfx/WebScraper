@@ -1,0 +1,14 @@
+{
+    "images": [
+        "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Drugstore%20Cafe/1_403_Drugstore_Cafe_Exterior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131307",
+        "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Drugstore%20Cafe/2_404_Drugstore_Cafe_Interior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131317",
+        "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Drugstore%20Cafe/3_405_Drugstore_Cafe_Counter_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131327"
+    ],
+    "title": "The Café",
+    "description": "The Café, adjacent to The Drugstore at Wynn, offers everything from breakfast pastries and sandwiches, to salads and desserts. A wide selection of espresso and specialty coffee drinks offer a pick-me-up any time of the day or night. Located alongside the casino floor and near the Wynn and Encore show theaters, The Café is a perfect spot to grab a bite inside or on the go.",
+    "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Drugstore%20Cafe/logo-drugstorecafe.png?h=30&w=127&la=en&vs=1&d=20170519T131341",
+    "category": "DINING",
+    "subcategory": "CASUAL DINING",
+    "timeTable": "Open 24 hours daily.",
+    "type": "item"
+}

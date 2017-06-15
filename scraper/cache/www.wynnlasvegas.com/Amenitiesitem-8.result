@@ -1,0 +1,18 @@
+{
+    "images": [
+        "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/ClaudeBarukWynn/909_Claude_Baruk_Salon_Wynn_Interior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20150730T172815",
+        "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/ClaudeBarukWynn/911_Claude_Baruk_Salon_Wynn_Barber_Shop_Barbara_Kraft_DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20141205T181645"
+    ],
+    "title": "the Claude Baruk salon at Wynn",
+    "description": "The Claude Baruk Salon at Wynn offers a full menu of exceptional cut, color and rejuvenating treatment services. Experience the culmination of a restorative treatment and a sense of well-being with a hair-spa ritual that is designed to renew hair, body and mind. The Barbershop, exclusive to the Claude Baruk Salon at Wynn, offers facial grooming, hairline trims and unique shave services.",
+    "logo": "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/ClaudeBarukWynn/ClaudeBarukWynn-logo.png?h=25&w=152&la=en&vs=1&d=20141205T181645",
+    "category": "AMENITIES",
+    "subcategory": "SALONS",
+    "name": "SALONS",
+    "openTableLink": [
+        "/Amenities/Salons/Reservations",
+        "/Amenities/Salons/Reservations"
+    ],
+    "timeTable": "Open daily from 9 a.m. to 7 p.m.\nSALON MENU",
+    "type": "item"
+}

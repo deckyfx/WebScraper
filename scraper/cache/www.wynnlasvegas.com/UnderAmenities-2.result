@@ -1,0 +1,14 @@
+{
+    "images": "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/902_Claude_Baruk_Salon_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20150730T170735",
+    "title": "the claude baruk Salons at wynn and encore",
+    "description": "From head-to-toe, the Claude Baruk Salons offer the expert treatments to help you look your very best. Managing director Claude Baruk is world-renowned for his technique and innovation, and brings his sought-after skills from St. Tropez to Wynn Las Vegas and Encore. The talented team of stylists at the salons combine the latest trends with classic and holistic approaches to health and beauty.",
+    "logo": "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/ClaudeBarukSalon-logo.png?h=25&w=152&la=en&vs=1&d=20141205T181644",
+    "category": "AMENITIES",
+    "name": "SALONS",
+    "openTableLink": [
+        "/Amenities/Salons/Reservations",
+        "/Amenities/Salons/Reservations"
+    ],
+    "timeTable": "Open daily from 9 a.m. to 7 p.m.\n\nWYNN SALON\nENCORE SALON\nSALON MENU",
+    "type": "item"
+}

@@ -1,0 +1,11 @@
+{
+    "images": "http://static.wynnlasvegas.com/~/media/WLV/Entertainment/Mel%20Brooks/274_EncoreTheater_MelBrooks_Stage_2.jpg?h=540&la=en&w=1001&vs=1&d=20170419T103043",
+    "title": "AN EVENING WITH MEL BROOKS",
+    "description": "img{\n    padding-top: 2px;\n    }\n    .section-image-vert img {\n    margin-bottom: 0px!important;\n    }\n    @media (max-width: 752px) {\n    .wlv-img-vert {\n    padding: 0px!important;\n    margin-bottom: 20px;\n    }\n    .wynn-mobile-buttons {\n    display: block!important;\n    margin: 0 auto 20px!important;\n    }\n    }\n    @media (max-width: 992px){\n    .wlv-img-vert {\n    padding: 0px!important;\n    margin-bottom: 20px;\n    }\n    }\n    .wynn-mobile-buttons {\n    border: solid 1px;\n    margin: 0 10px 20px auto;\n    text-transform: uppercase;\n    width: 160px;\n    padding: 20px;\n    font-size: 12px;\n    line-height: 15px;\n    display: inline;\n    color: #fff;\n    text-align: center;\n    font-family: 'AvenirLTStd35Light';\n    box-sizing: border-box;\n    }\n\nBlazing Saddles. Young Frankenstein. The Producers. Mel Brooks has created some of the most iconic comedies in film history, and now he offers a behind-the-scenes look at his extraordinary life and career during an exclusive two-night event at the Encore Theater at Wynn Las Vegas. Set for Friday and Saturday, June 30 and July 1, An Evening with Mel Brooks features the Oscar, Emmy, Grammy and Tony winning actor, writer, producer, and director in a rare onstage event that combines personal anecdotes with stand-up comedy and film clips of his most memorable work. Reserve seats now for this night of unforgettable stories and non-stop laughter.\nBuy tickets online or call show reservations at (702) 770-9966.\n\nMEL BROOKS PACKAGES\nExperience a VIP meet-and-greet with the legend himself, or enjoy a dinner and show pairing at one of the exceptional restaurants at Wynn and Encore.\nPACKAGE DETAILS",
+    "logo": "http://static.wynnlasvegas.com/~/media/WLV/Entertainment/Mel%20Brooks/MelBrooks_Logo_White_Resized.png?la=en&vs=1&d=20170407T164258",
+    "category": "ENTERTAINMENT",
+    "name": "MEL BROOKS",
+    "timeTableAlt": "Performances start at 7:30 p.m.",
+    "timeTable": "Performances start at 7:30 p.m. \nFriday, June 30\n\nSaturday, July 1",
+    "type": "item"
+}

@@ -1,0 +1,13 @@
+{
+    "images": "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Concierge/915_Wynn_Golf_Exterior_Hole-11_Barbara_Kraft_DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20141205T181638",
+    "title": "Concierge Services",
+    "description": "The concierge at Wynn and Encore are available to help you plan the perfect visit before you arrive. Experience a stunning show or indulge in a spa day for the ideal escape. From choice tables at our restaurants to golf reservations, our concierge staff is ready to take care of every detail. Allow our team to assist you in securing event tickets at one of our nightclubs and resort guests will receive VIP front-of-the-line passes.\nTo contact the concierge please call (702) 770-7070 or submit a reservation request. We will respond to requests within 24 hours.",
+    "category": "AMENITIES",
+    "name": "CONCIERGE",
+    "openTableLink": [
+        "http://wynnlasvegas.com/Amenities/Concierge/Reservations",
+        "http://wynnlasvegas.com/Amenities/Concierge/Reservations"
+    ],
+    "timeTable": "Resort guests can request assistance with dinner reservations, show tickets, spa and salon appointments, transportation and more.",
+    "type": "item"
+}
