@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+"use strict";
+
+const { Scraper } = require("../index");
+
+new Scraper();
