@@ -60,3 +60,4 @@ typings/
 # all javascript
 *.js
 *.js.map
+cache/*

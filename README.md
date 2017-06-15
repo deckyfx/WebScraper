@@ -12,7 +12,9 @@ cd WebScraper
 
 npm install -d
 
-./bin/scrap --url http://www.wynnlasvegas.com --xpath '//*[@id="top_0_header_1_RptNavigation_LnkItem_1"]' --property href
+tsc build
+
+./bin/scrap --url https://github.com/deckyfx/WebScraper --xpath '//*[@id="js-repo-pjax-container"]/div[2]/div[1]/div[1]/div[1]/div/span' --property href
 
 ./bin/scrap --config {path to your config file}
 ```
