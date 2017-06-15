@@ -59,3 +59,4 @@ typings/
 
 # all javascript
 *.js
+*.js.map
