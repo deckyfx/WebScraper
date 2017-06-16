@@ -65,3 +65,13 @@ with the following format
 ```
 
 please see ```sample/result.json``` for sample 
+
+
+# ToDo
+ - Implement Extendable Caching strategy
+ -- Base abstract class of Cache
+ -- Memory Cache
+ -- File Cache
+ -- Redis Cache
+ -- MySQLCache
+ -- etc
