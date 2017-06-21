@@ -15,48 +15,6 @@
         "timeTable": "Open Sunday through Thursday from 10 a.m. to 11 p.m. and on Friday and Saturday from 10 a.m. until 12 a.m.",
         "type": "item"
     },
-    "Amenitiesitem-10": {
-        "images": "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/946_Claude_Baruk_Claude_Model_Rouse.jpg?h=540&la=en&w=1001&vs=1&d=20170519T102156",
-        "title": "CLAUDE BARUK MAKEOVER EXPERIENCES",
-        "description": "Discover your best self with a beauty makeover by the expert stylists at the Claude Baruk Salons at Wynn and Encore. Indulge with packages designed to pamper including nail services, hair styling, professional makeup application, fashion shoots and more. Whether you’re seeking a new look to hit the town or the ultimate star treatment, Claude Baruk Salon will get you looking picture-perfect.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/ClaudeBarukSalon-logo.png?la=en&vs=1&d=20141205T181644",
-        "category": "EXPERIENCES",
-        "subcategory": "SALON EXPERIENCES",
-        "name": "SALON EXPERIENCES",
-        "timeTable": "Open daily from 9 a.m. to 7 p.m.\n\n\nSALONS",
-        "type": "item"
-    },
-    "Amenitiesitem-11": {
-        "title": "SALON RESERVATIONS",
-        "category": "AMENITIES",
-        "subcategory": "SALONS",
-        "name": "SALONS",
-        "type": "item"
-    },
-    "Amenitiesitem-12": {
-        "title": "cabana reservations",
-        "category": "AMENITIES",
-        "subcategory": "POOLS",
-        "name": "POOLS",
-        "type": "item"
-    },
-    "Amenitiesitem-13": {
-        "images": "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Golf/Tom%20Fazio%20Video/0_724_Wynn_Golf_18th_Hole_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20141205T181640",
-        "description": "Starting reservations vary seasonally; please call our golf reservation specialists at (702) 770-4653 for available tee times.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Golf/golfClub.png?h=71&w=115&la=en&vs=1&d=20141216T104843",
-        "category": "AMENITIES",
-        "subcategory": "GOLF",
-        "name": "GOLF",
-        "timeTable": "Reservations are available up to 90 days in advance for resort guests. Non-resort guests may make reservations up to 30 days in advance.",
-        "type": "item"
-    },
-    "Amenitiesitem-14": {
-        "title": "Concierge",
-        "category": "AMENITIES",
-        "subcategory": "CONCIERGE",
-        "name": "CONCIERGE",
-        "type": "item"
-    },
     "Amenitiesitem-2": {
         "images": "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Shops/Encore%20Esplanade/917_Encore_Esplanade_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20141205T181647",
         "title": "Encore Esplanade",
@@ -83,7 +41,6 @@
             "/Amenities/Spas/Reservations",
             "/Amenities/Spas/Reservations"
         ],
-        "timeTable": "",
         "type": "item"
     },
     "Amenitiesitem-5": {
@@ -102,7 +59,6 @@
             "/Amenities/Spas/Reservations",
             "/Amenities/Spas/Reservations"
         ],
-        "timeTable": "",
         "type": "item"
     },
     "Amenitiesitem-6": {
@@ -112,47 +68,21 @@
         "name": "SPAS",
         "type": "item"
     },
-    "Amenitiesitem-8": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/ClaudeBarukWynn/909_Claude_Baruk_Salon_Wynn_Interior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20150730T172815",
-            "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/ClaudeBarukWynn/911_Claude_Baruk_Salon_Wynn_Barber_Shop_Barbara_Kraft_DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20141205T181645"
-        ],
-        "title": "the Claude Baruk salon at Wynn",
-        "description": "The Claude Baruk Salon at Wynn offers a full menu of exceptional cut, color and rejuvenating treatment services. Experience the culmination of a restorative treatment and a sense of well-being with a hair-spa ritual that is designed to renew hair, body and mind. The Barbershop, exclusive to the Claude Baruk Salon at Wynn, offers facial grooming, hairline trims and unique shave services.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/ClaudeBarukWynn/ClaudeBarukWynn-logo.png?h=25&w=152&la=en&vs=1&d=20141205T181645",
-        "category": "AMENITIES",
-        "subcategory": "SALONS",
-        "name": "SALONS",
-        "openTableLink": [
-            "/Amenities/Salons/Reservations",
-            "/Amenities/Salons/Reservations"
-        ],
-        "timeTable": "Open daily from 9 a.m. to 7 p.m.\nSALON MENU",
-        "type": "item"
-    },
-    "Amenitiesitem-9": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/902_Claude_Baruk_Salon_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20150730T170735",
-            "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/ClaudeBarukWynn/909_Claude_Baruk_Salon_Wynn_Interior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20150730T172815"
-        ],
-        "title": "THE Claude Baruk salon at Encore",
-        "description": "In the care of Claude Baruk, you'll experience for yourself what his international celebrity clientele already knows, and you'll be ready for your close-up. The salon offers a full complement of cut, color and rejuvenation services for the ultimate in beauty and pampering. From luxury manicures and makeup services to hair treatment rituals, you're in good hands at the Claude Baruk Salon at Encore.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/ClaudeBarukEncore/ClaudeBarukEncore-logo.png?h=25&w=152&la=en&vs=1&d=20141205T181644",
-        "category": "AMENITIES",
-        "subcategory": "SALONS",
-        "name": "SALONS",
-        "openTableLink": [
-            "/Amenities/Salons/Reservations",
-            "/Amenities/Salons/Reservations"
-        ],
-        "timeTable": "Open daily from 9 a.m. to 7 p.m.\nSALON MENU",
-        "type": "item"
-    },
     "Casino": {
         "title": "CASINO",
         "images": "http://static.wynnlasvegas.com/~/media/WLV/Casino/1_806_High_Limit_Slots_Wynn.jpg?h=540&la=en&w=1001&vs=1&d=20141205T181656",
         "description": "The elegant casino areas at Wynn and Encore were designed to anticipate your every desire.",
-        "casino-menu": ["RED CARD", "Another", "Another"],
+        "casino-menu": [
+            "RED CARD",
+            "ENCORE PLAYERS LOUNGE",
+            "POKER",
+            "RACE & SPORTS BOOK",
+            "WYNN MOBILE SPORTS",
+            "TABLE GAMES",
+            "WIN/LOSS & W2-G FORM",
+            "CREDIT APPLICATION",
+            "RESPONSIBLE GAMING"
+        ],
         "type": "category"
     },
     "Dining": {
@@ -160,6 +90,369 @@
         "images": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Bartolotta/396_Costa_Cabanas_Twilight_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170421T110210",
         "description": "Collectively, Wynn Las Vegas and Encore hold more Forbes Travel Guide Four-Star Award-winning restaurants than any other independent resort in North America. From fine to casual dining, vegan and healthy eating options we have something to please any palate. There are also a number of resort bars and lounges to choose from, each offering unique scenery, menus and entertainment.",
         "type": "category"
+    },
+    "DiningItem-1": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Andreas/376_Andreas_Dining_Room_Bar_Barbara_Kraft_DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20170504T143807",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Andreas/377_Andreas_Bar_Barbara_Kraft_DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20170504T143835",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Andreas/357_Andreas_Dining_Room_To_Sushi_Bar_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T143851",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Andreas/358_Andreas_Dining_Room_Bar_Detail_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T143906"
+        ],
+        "title": "Andrea's",
+        "description": "Andrea's at Encore is a Forbes Travel Guide Four-Star Award-winning restaurant that combines Chef Joseph Elevado's menu of Asian-inspired cuisine with a sexy and social atmosphere. Discover for yourself why Andrea's was voted one of the country’s hottest dining spots in the OpenTable Diners’ Choice Awards. Overlooking the pool of Encore Beach Club, delicious beats will set the mood as you dine on specialties like the Wagyu beef and lobster roll, New York strip steak with wasabi demi glacé, or five-spice garlic lobster.\n\nTHE IMPOSSIBLE BURGER\n \nThe Impossible Burger has quickly become a food world sensation, but can only be found at a handful of restaurants in America. The 100% plant based burger has recently made its debut in Las Vegas, available exclusively at Andrea’s. Designed with meat lovers in mind, The Impossible Burger looks, cooks, smells and tastes like ground beef, but is better for the planet and completely cholesterol free. \n\nDINNER & SHOW PAIRINGS\n \nEnjoy a selection of dishes and cocktails before the 7 p.m. performance of Le Rêve—The Dream.\nDETAILS",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Andreas/logo-andrea.png?h=20&w=101&la=en&vs=1&d=20170504T143938",
+        "openTableLink": "http://www.opentable.com/andreas-reservations-las-vegas?rid=100207&restref=100207",
+        "category": "DINING",
+        "subcategory": "FINE DINING",
+        "timeTableAlt": "Open for dinner Sunday through Thursday from 6 to 10:30 p.m. and on Friday and Saturday until 11:30 p.m.",
+        "timeTable": "Open for dinner Sunday through Thursday from 6 to 10:30 p.m. and on Friday and Saturday until 11:30 p.m.\n\nMENU",
+        "diningMenu": "http://www.visitwynn.com/documents/Andreas.pdf?_ga=1.8863286.2090353498.1415293014",
+        "type": "item"
+    },
+    "DiningItem-11": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Allegro/497_Allegro_Exterior_Barbara_Kraft.jpg?h=1618&la=en&w=3000&vs=1&d=20170523T161608",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Allegro/487_Allegro_Main_Dining_WEB_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T130959",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Allegro/486_Allegro_Bar_WEB_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T154626"
+        ],
+        "title": "Allegro",
+        "description": "Chef Enzo Febbraro creates Italian-American favorites that retain the authentic flavors of his home in Italy by using only the freshest ingredients at Allegro. Well-positioned at the hub of many not-to-be-missed offerings at Wynn, Allegro is just steps from the Wynn and Encore show theaters. The energy of the open kitchen with its wood-burning oven compliments the many house-made menu items like fresh pastas, wood stone fired pizzas and Chef Febbraro's signature burrata that he crafts each evening.\n\nLAS VEGAS RESTAURANT WEEK\n\nLas Vegas Restaurant Week offers the unique opportunity to enjoy world-class cuisine while giving back to our community. From Monday, June 19 through Friday, June 30, enjoy a delectable three-course menu crafted by executive chef Enzo Febbraro, with a portion of the proceeds donated to Three Square Food Bank, that will be offered nightly from 5 p.m. to 12 a.m.\n\nClick here to see the menu.\n\nDINNER & SHOW PAIRINGS\n\nPair a three-course menu and specialty cocktail with a ticket to experience timeless icon Diana Ross, rock and roll star John Fogerty, legendary funny man Mel Brooks or the award-winning aquatic spectacular Le Rêve – The Dream.\n\nDETAILS",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Allegro/logo-allegro.png?h=32&w=139&la=en&vs=1&d=20170519T131031",
+        "openTableLink": "http://www.opentable.com/allegro-wynn-reservations-las-vegas?rid=109912&restref=109912",
+        "category": "DINING",
+        "subcategory": "CASUAL DINING",
+        "timeTable": "Dinner is served Monday through Friday from 5 p.m. to 6 a.m. and on Saturday and Sunday from 4 p.m. to 6 a.m. A bar menu is also offered daily from 3 to 5 p.m.\n\n\nMENU",
+        "diningMenu": "http://www.visitwynn.com/documents/Allegro.pdf?_ga=1.41761313.2090353498.1415293014",
+        "type": "item"
+    },
+    "DiningItem-12": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/The%20Buffet/451_The_Buffet_Atrium_Barbara_Kraft_2.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131048",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/The%20Buffet/453_The_Buffet_Atrium_Interior_Barbara_Kraft.jpg?h=541&la=en&w=1001&vs=1&d=20170330T092934",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/The%20Buffet/454_The_Buffet_Stations_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131200",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/The%20Buffet/456_The%20Buffet_Desserts_Barbara_Kraft.jpg?h=539&la=en&w=1001&vs=1&d=20170519T131210",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/The%20Buffet/465_Buffet_Dessert_Station_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131223"
+        ],
+        "title": "The Buffet at Wynn",
+        "description": "Indulge in a feast for all your senses amid the resplendent surroundings of the all-new buffet at Wynn, voted the \"Best Buffet\" in Las Vegas by the Southern Nevada Hotel Concierge Association. Sample tastes from around the world at the 15 live-action cooking stations presenting rotisserie grilled steakhouse cuts, coast-to-coast seafood and over 120 new dishes, all artfully presented. Newly reimagined décor and impeccable attention to detail imbue what is traditionally a casual dining experience with a fine dining sensibility. The finale is provided by the sweet patisserie, featuring warm pastries, chocolate fountain dipped specialties and an assortment of cakes and confections made daily by our dedicated pastry chefs. As USA Today notes in their review, \"If there's one thing this town is good at, it's taking a great buffet and making it even better.\"\n\nDINNER & SHOW PAIRINGS\n\nVisit The Buffet before or after experiencing timeless icon Diana Ross, rock and roll star John Fogerty, legendary funny man Mel Brooks or the award-winning aquatic spectacular Le Rêve – The Dream.\nDETAILS",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/The%20Buffet/logo-thebuffet.png?h=86&w=71&la=en&vs=1&d=20170519T131251",
+        "category": "DINING",
+        "subcategory": "CASUAL DINING",
+        "timeTable": "Open for breakfast Monday through Friday from 7:30 to 11 a.m., for lunch from 11 a.m. to 3:30 p.m. and dinner from 3:30 until 9:30 p.m. Brunch is served on Saturday and Sunday from 7:30 a.m. to 3:30 p.m. with dinner hours from 3:30 p.m. to 9:30 p.m.",
+        "type": "item"
+    },
+    "DiningItem-13": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Drugstore%20Cafe/1_403_Drugstore_Cafe_Exterior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131307",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Drugstore%20Cafe/2_404_Drugstore_Cafe_Interior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131317",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Drugstore%20Cafe/3_405_Drugstore_Cafe_Counter_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131327"
+        ],
+        "title": "The Café",
+        "description": "The Café, adjacent to The Drugstore at Wynn, offers everything from breakfast pastries and sandwiches, to salads and desserts. A wide selection of espresso and specialty coffee drinks offer a pick-me-up any time of the day or night. Located alongside the casino floor and near the Wynn and Encore show theaters, The Café is a perfect spot to grab a bite inside or on the go.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Drugstore%20Cafe/logo-drugstorecafe.png?h=30&w=127&la=en&vs=1&d=20170519T131341",
+        "category": "DINING",
+        "subcategory": "CASUAL DINING",
+        "timeTable": "Open 24 hours daily.",
+        "type": "item"
+    },
+    "DiningItem-14": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Jardin/461_Jardin_Patio_Night_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131400",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Jardin/466_Jardin_Exterior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131414",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Jardin/496_Jardin_Interior_Barbara_Kraft.jpg?h=1618&la=en&w=3000&vs=1&d=20170517T135320"
+        ],
+        "title": "Jardin",
+        "description": "Imagine enjoying the freshest seasonal cuisine in an airy, conservatory-like setting overlooking shimmering pools and manicured greenery. Jardin, Encore’s newest relaxed-dining restaurant, offers panoramic views of the Encore pool and is the setting for Chef Joseph Zanelli’s garden of delights for breakfast, lunch and dinner. The restaurant offers casual elegance with a menu that is equal parts innovative and approachable American cuisine. Choose from classics like the crispy buttermilk chicken sandwich with mustard slaw and garlic-herb ranch or a juicy, grilled Kurobuta pork chop topped with mushroom ragout and orange sage sauce. Breakfast features mouthwatering options like short rib and egg sliders and Maine lobster Benedict. Dine inside for the best vantage of Jardin’s in-the-round views, or request a patio table to immerse yourself in the picturesque setting day or night.\n\nLAS VEGAS RESTAURANT WEEK\n\nLas Vegas Restaurant Week offers the unique opportunity to indulge in world-class cuisine while giving back to our community. From Monday, June 19 through Friday, June 30, enjoy a specialty three-course menu crafted by executive chef Joseph Zanelli, with a portion of the proceeds donated to Three Square Food Bank, that will be offered nightly from 4 to 11 p.m.\n\nClick here to see the menu.\n\nDINNER & SHOW PAIRINGS\n\nPair a three-course menu and specialty cocktail with a ticket to experience timeless icon Diana Ross, rock and roll star John Fogerty, legendary funny man Mel Brooks or the award-winning aquatic spectacular Le Rêve – The Dream. \n\nDETAILS",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Jardin/Jardin-Logo.png?h=30&w=100&la=en&vs=1&d=20170519T131447",
+        "openTableLink": "http://www.opentable.com/jardin-encore-at-wynn-reservations-las-vegas?rid=59890&restref=59890",
+        "category": "DINING",
+        "subcategory": "CASUAL DINING",
+        "timeTable": "Open for breakfast, lunch and dinner Sunday through Thursday from 7 a.m. to 11 p.m. and on Friday and Saturday until 12 a.m.\n\nMENU",
+        "diningMenu": "http://www.visitwynn.com/documents/Jardin.pdf",
+        "type": "item"
+    },
+    "DiningItem-15": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/La%20Cave/1_339_La_Cave_Lounge_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131458",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/La%20Cave/2_340_La_Cave_Cellar_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131508",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/La%20Cave/3_341_La_Cave_Details_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131520"
+        ],
+        "title": "La Cave—Wine & Food Hideaway",
+        "description": "Low ceilings and quiet nooks are what you'll find behind the glass facade and revolving door that is set into the hallway next-door to Terrace Pointe Café at Wynn. At La Cave—Wine & Food Hideaway you'll savor Chef Billy DeMarco's menu of small-plate items from the sea, farm, oven, garden, grill and butcher, paired with artisanal draught beers and an impressive wine list. La Cave offers three distinct environments—the cellar, the front bar area illuminated from above by a sign proclaiming In Vino Veritas, the rustic yet refined dining room, and a patio that looks out over the elegantly-landscaped Wynn resort pool and gardens.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/La%20Cave/logo-lacave.png?h=34&w=132&la=en&vs=1&d=20170519T131533",
+        "openTableLink": "http://www.opentable.com/la-cave-wynn-reservations-las-vegas?rid=111616&restref=111616",
+        "category": "DINING",
+        "subcategory": "CASUAL DINING",
+        "timeTable": "Open for lunch and dinner Monday through Thursday from 11:30 a.m. to 10 p.m. and on Friday and Saturday from 11:30 a.m. to 11 p.m. A tableside butler-style brunch is served on Sunday from 10:30 a.m. to 2:30 p.m. followed by dinner from 4 to 10 p.m.\n\n\nMENU",
+        "diningMenu": "http://www.visitwynn.com/documents/la_cave_menu.pdf?_ga=1.209534225.2090353498.1415293014",
+        "type": "item"
+    },
+    "DiningItem-16": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Red%208/486_Red_8_Interior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T154659",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Red%208/435_Red_8_Interior_Table_Barbara_Kraft-DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131943",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Red%208/3_410_Red_8_Entrance_Wide_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131958"
+        ],
+        "title": "Red 8",
+        "description": "If you find you are in need of some good luck, or you have found good fortune and wish to celebrate it, look no further than the enticing Asian flavors of Red 8 at Wynn. The diverse menu offers familiar favorites—and exotic cuisine that perhaps you have yet to try—from China, Thailand, Vietnam and Korea. Some of Red 8's specialties include Cantonese noodle dishes, dim sum, perfectly prepared vegetable dishes, and Hong Kong-style barbecue. The dining room is saturated with rich reds and interesting textures, and be sure to look to the ceiling as you walk through the entry way to catch a glimpse of a well-hidden design element that adds a touch of artistic inventiveness.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Red%208/logo-red8.png?h=53&w=84&la=en&vs=1&d=20170519T132010",
+        "category": "DINING",
+        "subcategory": "CASUAL DINING",
+        "timeTable": "Open for lunch daily at 11:30 a.m. Dinner is served Sunday through Thursday until 12 a.m., and until 1 a.m. on Friday and Saturday.\n\nMENU",
+        "diningMenu": "http://www.visitwynn.com/documents/Red_8.pdf?_ga=1.209534225.2090353498.1415293014",
+        "type": "item"
+    },
+    "DiningItem-17": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/2_416_Terrace_Pointe_Cafe_Patio_Wynn_Mag_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T130935",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Terrace%20Pointe%20Cafe/3_433_Terrace_Pointe_Cafe_Interior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T132157",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Terrace%20Pointe%20Cafe/1_415_Terrace_Pointe_Cafe_Patio_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T132212"
+        ],
+        "title": "Terrace Pointe Café",
+        "description": "Terrace Pointe Café at Wynn showcases lively decor, replete with sunlight that streams in from the floor-to-ceiling, panoramic view of the carefully manicured gardens surrounding the Wynn resort pool. Breakfast, lunch and brunch favorites are deliciously reinvented and perfectly prepared in this relaxed café with a refined feel. Dine on a variety of specialties like brioche French toast, truffle mushroom Angus burger, or indulge in a triple thick malted shake or banana split waffle bowl sundae poolside on the sizable patio.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Terrace%20Pointe%20Cafe/logo-terracepointcafe.png?h=60&w=130&la=en&vs=1&d=20170519T132439",
+        "category": "DINING",
+        "subcategory": "CASUAL DINING",
+        "timeTable": "Open daily from 6 a.m. to 3 p.m.\nMENU",
+        "diningMenu": "http://www.visitwynn.com/documents/Terrace_Pointe_Cafe.pdf",
+        "type": "item"
+    },
+    "DiningItem-18": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Wazuzu/1_333_Wazuzu_Interior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T132456",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Wazuzu/2_334_Wazuzu_Exterior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T132510",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Wazuzu/3_430_Wazuzu_Wide_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T132528"
+        ],
+        "title": "Wazuzu",
+        "description": "Inventive fare in a wondrously unanticipated environment is what you'll find in Wazuzu at Encore. Chef Chen Wei Chan's exceptional Pan-Asian menu features flavors inspired by Chinese, Japanese, and Thai cuisine. Chef Chan’s training as a painter in Taiwan shows in the artful plating of his dishes, which succeed in being as beautiful as the glittering 27-foot dragon made of ninety thousand individual crystals that is the focal point of Wazuzu’s bold décor. Be sure to try the drunken noodles that were featured on Food Network’s \"Best Thing I Ever Ate.\"",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Wazuzu/logo-wazuzu.png?h=63&w=127&la=en&vs=1&d=20170519T132544",
+        "category": "DINING",
+        "subcategory": "CASUAL DINING",
+        "timeTable": "Open for lunch and dinner Sunday through Thursday from 11:30 a.m. to 10:30 p.m. and on Friday and Saturday from 11:30 a.m. until 1 a.m. \n\nMENU",
+        "diningMenu": "http://www.visitwynn.com/documents/Wazuzu.pdf?_ga=1.8786358.2090353498.1415293014",
+        "type": "item"
+    },
+    "DiningItem-2": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Bartolotta/396_Costa_Cabanas_Twilight_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170421T110210",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Bartolotta/374_Bartolotta_Interior_Barbara_Kraft_DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144041",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Bartolotta/371_Bartolotta_Cabana_View_Barbara_Kraft_DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144055",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Bartolotta/375_Bartolotta_Lagoon_Barbara_Kraft_DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144109",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Bartolotta/397_Costa_Cabana_Table_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144122"
+        ],
+        "title": "Costa Di Mare",
+        "description": "Costa di Mare, the Forbes Travel Guide Four-Star Award-winning restaurant at Wynn, showcases the acclaimed seafood prepared by chef Mark LoRusso. LoRusso, voted \"Best Chef\" in Las Vegas by the Southern Nevada Hotel Concierge Association creates his menu nightly, featuring fresh Mediterranean seafood and Italian cuisine with house-made pastas and over forty varieties of fresh fish and shellfish flown in daily from Italy’s coastal waters. You may choose to sit in the bold, freshly redesigned dining room or outside in a private cabana surrounding the serene lagoon. It is recommended to make a cabana table reservation in advance of your arrival by calling (702) 770-3305.\n\n\nAPERITIVO\n\n\nVisit the bar for a nightly menu of sharable plates and classic Italian cocktails perfect for before dinner or a show. \nDETAILS\n\nA NIGHT AT THE JAMES BEARD HOUSE\n\n\nExperience the menu chef Mark LoRusso presented at the James Beard House. \nDETAILS",
+        "logo": "http://static.wynnlasvegas.com/~/media/Costa-di-MareLogoNEW.png?h=60&w=188&la=en&vs=1&d=20151016T161722",
+        "openTableLink": "http://www.opentable.com/costa-di-mare-wynn-reservations-las-vegas?rid=75688&restref=75688",
+        "category": "DINING",
+        "subcategory": "FINE DINING",
+        "timeTable": "Open for dinner nightly from 5:30 to 10 p.m.\n\n\nMENU",
+        "diningMenu": "http://www.visitwynn.com/documents/CostaDiMare.pdf",
+        "type": "item"
+    },
+    "DiningItem-20": {
+        "images": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Eastside/426_Eastside_Lounge_Barbara_Kraft-DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20170519T132722",
+        "title": "Eastside Lounge",
+        "description": "At Eastside Lounge, you can sip an alluring cocktail while appreciating the stunning views of Encore's resort pool. Eastside Lounge features expertly prepared classic and hand-crafted specialty cocktails along with a full selection of spirits, wine and beer.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Eastside/logo-eastside.png?h=49&w=152&la=en&vs=1&d=20170519T132735",
+        "category": "DINING",
+        "subcategory": "BARS & LOUNGES",
+        "timeTable": "Open evenings from 6 p.m. to 2 a.m.",
+        "type": "item"
+    },
+    "DiningItem-21": {
+        "images": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Encore%20Lobby%20Bar/1_427_Lobby_Bar_Cafe_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T132752",
+        "title": "Lobby Bar & Café",
+        "description": "A few steps from Encore's main entrance and the elevators ascending to the resort rooms is the cleverly positioned and aptly-named Lobby Bar & Café. Adorned in rich reds, the centerpiece of the lounge is a golden sculpture of the mythic Greek nymph, Daphne. She is rendered here, in the heart of the café, right as she is metamorphosing into a laurel tree to elude Apollo. For guests of Encore Tower Suites, Lobby Bar & Café is where you'll enjoy complimentary tea and coffee service each morning.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Encore%20Lobby%20Bar/logo-lobbybar.png?h=34&w=151&la=en&vs=1&d=20170519T132809",
+        "category": "DINING",
+        "subcategory": "BARS & LOUNGES",
+        "timeTableAlt": "Open daily from 6 a.m. until 2 a.m.",
+        "timeTable": "Open daily from 6 a.m. until 2 a.m.",
+        "type": "item"
+    },
+    "DiningItem-22": {
+        "images": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/EncorePlayersClubBar/441_VDKA_Barbara_20Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T132900",
+        "title": "Encore Players Bar",
+        "description": "Sip some of the rarest and uniquely flavored vodkas at Encore Players Bar, adjacent to Encore Players Lounge and the entrance to Andrea's. Encore Players Bar offers a selection of 150 vodkas, including Las Vegas' largest selection of essence-infused vodkas, served as frosty shots or expertly mixed in adventurous cocktails featuring flavors like bacon, peanut butter or whipped cream. Each shot poured uses a signature dispensing system to ensure that the distinct taste is ice cold.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/EncorePlayersClubBar/logo-encore-players-bar.png?&la=en&vs=1&d=20160715T024036",
+        "category": "DINING",
+        "subcategory": "BARS & LOUNGES",
+        "timeTable": "Open nightly at 6 p.m.",
+        "type": "item"
+    },
+    "DiningItem-23": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Parasol%20Down/442_Parasol%20Down_Exterior_Barbara%20Kraft_New.jpg?h=540&la=en&w=1001&vs=1&d=20170519T132638",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Parasol%20Down/0_428_Parasol_Down_Barbara_Kraft.jpg?h=541&la=en&w=1001&vs=1&d=20170519T133006"
+        ],
+        "title": "Parasol Down",
+        "description": "Parasol Down at Wynn offers one of the most memorable views that you'll experience at Wynn Las Vegas and Encore, and it is an experience not to be missed. To reach this semi-secluded lounge, you will ride a spiraling escalator down from its sister lounge, Parasol Up, through slowly twirling, multicolored parasols that hang above and are their namesake. Once you reach Parasol Down, you'll be spellbound by the spectacular vision of the 40-foot waterfall rushing down a pine-topped mountain, towering over the dazzling Lake of Dreams.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Parasol%20Down/logo-parasoldown.png?h=149&w=90&la=en&vs=1&d=20170519T133034",
+        "category": "DINING",
+        "subcategory": "BARS & LOUNGES",
+        "timeTable": "Open daily from 11 a.m. to 2 a.m.",
+        "type": "item"
+    },
+    "DiningItem-24": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Parasol%20Up/498_Parasol_Up_Interior_WEB_V2_Jeff-Green.jpg?h=540&la=en&w=1001&vs=1&d=20170523T161710",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Parasol%20Up/499_Parasol_Up_Interior_View_WEB_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170523T161718"
+        ],
+        "title": "Parasol Up",
+        "description": "The freshly redesigned Parasol Up lounge offers a light and airy vantage point to delight in a panoramic view over much of Wynn Las Vegas. Positioned at the crossing of the casino, the blossom-filled atrium and the Wynn Esplanade, Parasol Up looks out beyond the eponymous dancing parasols, and over the 40-foot waterfall that cascades down into the Lake of Dreams. Stop by to drink in the sights and sample the all-new cocktail menu featuring specialty creations exclusive to Parasol Up.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Parasol%20Up/logo-parasolup.png?h=123&w=88&la=en&vs=1&d=20170519T133134",
+        "category": "DINING",
+        "subcategory": "BARS & LOUNGES",
+        "timeTable": "Open Sunday through Thursday from 11 a.m. to 3 a.m. and on Friday and Saturday from 11 a.m. to 4 a.m.",
+        "type": "item"
+    },
+    "DiningItem-25": {
+        "images": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Terrace%20Lounge/495_Wynn_Balloon_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170501T152836",
+        "title": "Terrace Lounge",
+        "description": "Just steps beyond the lush Atrium that surrounds Wynn’s main entrance and registration desk is the resort’s newest place to enjoy a refreshing drink, Terrace Lounge. This bright space has an excellent view of the whimsical hot air balloon created by acclaimed floral designer Preston Bailey, as well as outdoor seating overlooking the Lake of Dreams. Terrace Lounge offers hand-crafted specialty cocktails and an elegant selection of wines, fine spirits and beers.\n\nAFTERNOON TEA\n\nEnjoy elegant afternoon tea served daily at Terrace Lounge. Relax with your choice of fine loose-leaf teas including herbal blends, green leaves, white leaves, blooming and black teas. Tea service also includes an assortment of tea sandwiches, scones and patisserie sweets.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Terrace%20Lounge/TerraceLounge_Logo_White.png?la=en&vs=1&d=20170501T132005",
+        "category": "DINING",
+        "subcategory": "BARS & LOUNGES",
+        "timeTableAlt": "Open daily from 12 p.m. to 12 a.m. Afternoon Tea is served daily from 12 to 4 p.m.",
+        "timeTable": "Open daily from 12 p.m. to 12 a.m. Afternoon Tea is served daily from 12 to 4 p.m.\nTerrace Lounge is also available for group entertaining. To plan a cocktail reception, please call (702) 770-2251.",
+        "type": "item"
+    },
+    "DiningItem-26": {
+        "images": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Tower%20Suite%20Bar/439_Tower_Suite_Bar_Robert_Miller_08-17.jpg?h=540&la=en&w=1001&vs=1&d=20170519T133217",
+        "title": "Tower Suite Bar",
+        "description": "Within the elegant Tower Suite Lobby at Wynn, you'll find the sparkling jewel that is the Tower Suite Bar. Serving both as a gathering place and an elegant transition into Tableau, the Tower Suite Bar is also the entrance to the Wynn Tower Suites and an exquisite place to sip a morning coffee or to enjoy an evening cocktail or glass of Champagne.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Tower%20Suite%20Bar/logo-towersuitebar.png?h=80&w=77&la=en&vs=1&d=20170519T133230",
+        "category": "DINING",
+        "subcategory": "BARS & LOUNGES",
+        "timeTable": "Open Sunday through Thursday from 6 a.m. until 12 a.m. and on Friday and Saturday from 6 a.m. until 2 a.m.",
+        "type": "item"
+    },
+    "DiningItem-3": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Country%20Club/373_Country_Club_Patio_Evening_Barbara-Kraft_DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20170504T143734",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Country%20Club/1_309_Country_Club_Patio_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144315",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Country%20Club/401_Country_Club_Dining_View_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144335",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Country%20Club/3_311_Country_Club_Bar_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144350",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Country%20Club/489_The_Country_Club_Lounge_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144407"
+        ],
+        "title": "Country Club—A New American Steakhouse",
+        "description": "The Country Club—A New American Steakhouse presents innovative fare by Chef Rene Lenger overlooking the 18th hole on the Wynn Golf Course. A Forbes Travel Guide Four-Star Award-winner, this restaurant is the realization of Steve Wynn's vision to create an upscale golf club that would be accessible to all guests. Savor charred-to-perfection steaks, ocean fresh seafood and prime rib elegantly carved table-side. The Country Club serves lunch, dinner and brunch on weekends, with a unique Jazz Brunch offered on Sundays.\n\nJAZZ BRUNCH\n\nThis bountiful Sunday brunch buffet, which includes a carving station and selections from Lenger’s kitchen, is accompanied by the spirited jazz of a live Dixieland band. See for yourself why the Southern Nevada Hotel Concierge Association named this the \"Best Brunch\" in Las Vegas for the second consecutive year. \n\nTHE IMPOSSIBLE BURGER \n\nThe sensational Impossible Burger, found only at a handful of restaurants in America, recently made its debut in Las Vegas, available exclusively at Wynn. The Impossible Burger is 100% plant based and looks, cooks, smells and tastes like ground beef, but is better for the planet and completely cholesterol free. The Impossible Burger is now available at The Country Club for lunch Monday through Saturday.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Country%20Club/logo-countryclub.png?h=17&w=205&la=en&vs=1&d=20170504T144428",
+        "openTableLink": "http://www.opentable.com/the-country-club-wynn-reservations-las-vegas?rid=75427&restref=75427",
+        "category": "DINING",
+        "subcategory": "FINE DINING",
+        "timeTable": "Open for lunch Monday through Friday from 11:30 a.m. to 2:30 p.m., for dinner Wednesday through Saturday from 5:30 to 10 p.m. and brunch Saturday from 10 a.m. to 2:30 p.m. Jazz Brunch is served Sunday from 10 a.m. to 2 p.m. A lounge menu is offered Monday through Saturday 2:30 to 4 p.m.\n\n\nMENU",
+        "diningMenu": "http://www.visitwynn.com/documents/Country_Club.pdf?_ga=1.213851671.2090353498.1415293014",
+        "type": "item"
+    },
+    "DiningItem-4": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Lakeside%20Seafood/1_312_Lakeside_Exterior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144452",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Lakeside%20Seafood/2_313_Lakeside_Private_Dining_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144506",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Lakeside%20Seafood/380_Lakeside_Patio_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144519",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Lakeside%20Seafood/3_314_Lakeside_Interior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144531",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Lakeside%20Seafood/344_Lakeside_Bar_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144544"
+        ],
+        "title": "Lakeside",
+        "description": "Lakeside at Wynn not only offers exceptionally fresh seafood and mouthwatering steaks, but also an incredible view of the Lake of Dreams. Chef David Walzog’s specialties include \"ocean-to-table\" fresh fish caught from Hawaiian waters, an exotic variety of oven roasted lobster and crab, and prime aged steaks. This Forbes Travel Guide Four-Star Award-winning restaurant offers a unique energy that sets the stage for a menu that focuses on fresh, seasonally available preparations and your choice of expertly paired sides. Vegas Seven regards Lakeside as, “one of the best places in the world for enjoying the bounty of the world’s oceans.”\n\nDINNER & SHOW PAIRINGS\n\nPair an all-inclusive prix-fixe menu with a ticket to experience timeless icon Diana Ross, rock and roll star John Fogerty, or legendary funny man Mel Brooks in the intimate Encore Theater. \nDETAILS\n\nPOKE & OYSTER HAPPY HOUR\n\nNightly from 5:30 to 7 p.m. in the lounge, Lakeside is offering a new Hawaiian-inspired menu of small plates along with chilled East and West Coast oysters.\nDETAILS",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Lakeside%20Seafood/logo-lakeside.png?h=31&w=99&la=en&vs=1&d=20170504T144621",
+        "openTableLink": "http://www.opentable.com/lakeside-wynn-reservations-las-vegas?rid=59875&restref=59875",
+        "category": "DINING",
+        "subcategory": "FINE DINING",
+        "timeTable": "Open for dinner nightly from 5:30 to 10 p.m.\n\nMENU",
+        "diningMenu": "http://www.visitwynn.com/documents/Lakeside.pdf?_ga=1.238514819.2090353498.1415293014",
+        "type": "item"
+    },
+    "DiningItem-5": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Mizumi/350_Mizumi_Main_Dining_Room_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144648",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Mizumi/351_Mizumi_Pagoda_Table_Twilight_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144658",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Mizumi/372_Mizumi_Teppan_Room_DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144719",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Mizumi/352_Mizumi_Waterfall_View_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144733",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/398_Mizumi_Patio_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144750"
+        ],
+        "title": "Mizumi",
+        "description": "Chef Devin Hashimoto, named \"Best Chef on The Strip\" by Vegas Seven, uses his fresh approach to Japanese cuisine by presenting a choice of dining experiences at Mizumi: a robatayaki bar, a teppanyaki room, ocean-fresh sushi and sashimi, and items from his kitchen. Located at Wynn, the entire Forbes Travel Guide Four-Star Award-winning restaurant looks out over private Japanese gardens surrounding an idyllic koi pond with a shimmering 90-foot waterfall. Experience the picturesque view and stylish, fine-dining approach to the delicious theatrics of teppanyaki presented in the teppan room.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Mizumi/logo-mizumi.png?h=19&w=100&la=en&vs=1&d=20170504T144808",
+        "openTableLink": [
+            "http://www.opentable.com/mizumi-wynn-reservations-las-vegas?rid=89977&restref=89977",
+            "http://www.opentable.com/mizumi-teppan-wynn-reservations-las-vegas?rid=110143&restref=110143"
+        ],
+        "category": "DINING",
+        "subcategory": "FINE DINING",
+        "timeTable": "Open for dinner Sunday through Thursday from 5:30 to 10 p.m. and on Friday and Saturday until 10:30 p.m\nMENU",
+        "diningMenu": "http://www.visitwynn.com/documents/Mizumi.pdf?_ga=1.41311777.2090353498.1415293014",
+        "type": "item"
+    },
+    "DiningItem-6": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Sinatra/1_318_Sinatra_Interior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144846",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Sinatra/2_319_Sinatra_Bar_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144900",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Sinatra/3_320_Sinatra_Patio_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144913",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Sinatra/345_Sinatra_Dining_Room_to_Patio_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144926"
+        ],
+        "title": "Sinatra",
+        "description": "If you like Frank Sinatra, you'll love our Forbes Travel Guide Four-Star Award-winning tribute to Ol' Blue Eyes. Sinatra, inside Encore, showcases Chef Theo Schoenegger's modern twist on classic Italian cooking, including many of Frank's personal favorites that Chef Schoenegger prepared for him, like spaghetti and clams, or ossobuco. Choose to sit inside in the dining room, adorned with iconic memories from Sinatra's storied career including his Academy Award for Best Supporting Actor in \"From Here to Eternity,\" his Grammy Award for \"Strangers in the Night,\" and his Emmy for \"Frank Sinatra: A Man and His Music\" or dine fireside on the charming outdoor patio.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Sinatra/logo-sinatra.png?h=31&w=116&la=en&vs=1&d=20170504T144943",
+        "openTableLink": "http://www.opentable.com/sinatra-encore-at-wynn-reservations-las-vegas?rid=59881&restref=59881",
+        "category": "DINING",
+        "subcategory": "FINE DINING",
+        "timeTable": "Open for dinner nightly from 5:30 to 10 p.m.\nMENU",
+        "diningMenu": "http://www.visitwynn.com/documents/Sinatra.pdf?_ga=1.41311777.2090353498.1415293014",
+        "type": "item"
+    },
+    "DiningItem-7": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/SW%20Steakhouse/390_SW_Steakhouse_Patio_Barbara_Kraft.jpg?h=1618&la=en&w=3000&vs=1&d=20170504T145011",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/SW%20Steakhouse/1000_SW_Main_Dining_Lake_View_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170607T150030",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/SW%20Steakhouse/392_SW_Bar_Barbara_Kraft.jpg?h=1618&la=en&w=3000&vs=1&d=20170504T145520",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/SW%20Steakhouse/391_SW_Dining_Room_Barbara_Kraft.jpg?h=1618&la=en&w=3000&vs=1&d=20170504T145027",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/SW%20Steakhouse/393_SW_Private_Dining_Barbara_Kraft.jpg?h=1618&la=en&w=3000&vs=1&d=20170504T145557"
+        ],
+        "title": "SW Steakhouse",
+        "description": "Chef David Walzog's Forbes Travel Guide Four-Star Award-winning SW Steakhouse at Wynn offers steaks that are unparalleled in Las Vegas. While you dine on exceptional American steakhouse fare, you'll be dazzled by the nightly shows that happen on the Lake of Dreams, making SW Steakhouse a delight to all senses. Entrees like the chili-rubbed double rib eye, featured on Food Network's \"Best Thing I Ever Ate,\" are skillfully paired with sides that allow Chef Walzog to show off his culinary chops with seasonal, exotic ingredients like black truffle creamed corn.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/SW%20Steakhouse/sw-steakhouse.png?h=47&w=47&la=en&vs=1&d=20141205T181723",
+        "openTableLink": "http://www.opentable.com/sw-steakhouse-wynn-reservations-las-vegas?rid=110149&restref=110149",
+        "category": "DINING",
+        "subcategory": "FINE DINING",
+        "timeTable": "Open for dinner nightly from 5:30 to 10 p.m.\n\nMENU",
+        "diningMenu": "http://www.visitwynn.com/documents/SW_Steakhouse.pdf?_ga=1.38174240.2090353498.1415293014",
+        "type": "item"
+    },
+    "DiningItem-8": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Tableau/395_Tableau_Conservatory_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T145639",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Tableau/481_Tableau_Main_Dining_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T145657",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Tableau/3_349_Tableau_Bar_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T145714"
+        ],
+        "title": "Tableau",
+        "description": "Just steps away from the private Wynn Tower Suites elevators, you'll find the bright and elegant American-style restaurant Tableau. If you are a guest in our Wynn Tower Suites, this is where you will enjoy daily complimentary breakfast. Chef David Middleton's menu builds on seasonally-sourced ingredients to present market-fresh breakfast, lunch and brunch selections like strawberry blintz buttermilk pancakes, heirloom tomato salad and Mediterranean branzino. Choose to sit in the conservatory to enjoy the gorgeous garden and pool views or dine outdoors, poolside on the patio.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Tableau/logo-tableau.png?h=32&w=135&la=en&vs=1&d=20170504T145729",
+        "openTableLink": "http://www.opentable.com/tableau-wynn-reservations-las-vegas?rid=110152&restref=110152",
+        "category": "DINING",
+        "subcategory": "FINE DINING",
+        "timeTable": "Open for breakfast Monday through Friday from 7 to 11:30 a.m. and lunch until 2:30 p.m. Brunch is served Saturdays and Sundays from 7 a.m. until 2:30 p.m.\n\nTableau is also available each evening for private events.\n\nMENU",
+        "diningMenu": "http://www.visitwynn.com/documents/Tableau.pdf?_ga=1.38174240.2090353498.1415293014",
+        "type": "item"
+    },
+    "DiningItem-9": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Wing%20Lei/363_Wing_Lei_Dining_Room_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T145751",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Wing%20Lei/370_Wing-Lei_Bar_Barbara-Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T145812",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Wing%20Lei/369_Wing_Lei_Private_Dining_Room_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T145826",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Wing%20Lei/399_Wing_Lei_Main_Dining_Room_Barbara_Kraft.JPG?h=540&la=en&w=1001&vs=1&d=20170504T145839",
+            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Wing%20Lei/400_Wing_Lei_Group_Dining_Barbara_Kraft.JPG?h=540&la=en&w=1001&vs=1&d=20170504T145858"
+        ],
+        "title": "Wing Lei",
+        "description": "Wing Lei, the first Chinese restaurant in the country to be awarded a Michelin Star and the only Forbes Travel Guide Five-Star Award-winning Chinese restaurant in North America, combines Chinese flavors with Western technique to create an exceptional dining experience at Wynn. A lavish gold and jewel-toned dining space draws inspiration from elements of classical Chinese architecture and design to create contemporary rooms that are rich and eclectic. Wing Lei features a view of a private garden that harbors century-old pomegranate trees and a gleaming golden dragon. The elegant surroundings pair perfectly with Chef Ming Yu’s menu—a masterful mix of Cantonese, Shanghai and Szechuan flavors—featuring delicacies like tableside-carved Imperial Peking duck, mu shu pork and wok-fried Maine lobster.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Wing%20Lei/logo-winglei.png?h=66&w=142&la=en&vs=1&d=20170504T145914",
+        "openTableLink": "http://www.opentable.com/wing-lei-reservations-las-vegas?rid=75799&restref=75799",
+        "category": "DINING",
+        "subcategory": "FINE DINING",
+        "timeTable": "Open for dinner Sunday through Thursday from 5:30 to 9:30 p.m. and on Friday and Saturday until 10 p.m.\nMENU",
+        "diningMenu": "http://www.visitwynn.com/documents/Wing_Lei.pdf?_ga=1.38174240.2090353498.1415293014",
+        "type": "item"
     },
     "EncorePlayersLounge": {
         "images": [
@@ -180,359 +473,958 @@
         "description": "Creating moments of excitement, discovery and wonder is at the heart of every project or creation that Steve Wynn has ever built. Wynn Las Vegas and Encore are home to several experiences that promise to delight and entertain everyone that encounters them. From large production shows and spellbinding displays, to live music and once-in-a-lifetime chances at adventure, the opportunities abound for memories to be made that will last forever.",
         "type": "category"
     },
-    "Item-1": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Andreas/376_Andreas_Dining_Room_Bar_Barbara_Kraft_DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20170504T143807",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Andreas/377_Andreas_Bar_Barbara_Kraft_DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20170504T143835",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Andreas/357_Andreas_Dining_Room_To_Sushi_Bar_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T143851",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Andreas/358_Andreas_Dining_Room_Bar_Detail_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T143906"
-        ],
-        "title": "Andrea's",
-        "description": "Andrea's at Encore is a Forbes Travel Guide Four-Star Award-winning restaurant that combines Chef Joseph Elevado's menu of Asian-inspired cuisine with a sexy and social atmosphere. Discover for yourself why Andrea's was voted one of the country’s hottest dining spots in the OpenTable Diners’ Choice Awards. Overlooking the pool of Encore Beach Club, delicious beats will set the mood as you dine on specialties like the Wagyu beef and lobster roll, New York strip steak with wasabi demi glacé, or five-spice garlic lobster.\n\nTHE IMPOSSIBLE BURGER\n \nThe Impossible Burger has quickly become a food world sensation, but can only be found at a handful of restaurants in America. The 100% plant based burger has recently made its debut in Las Vegas, available exclusively at Andrea’s. Designed with meat lovers in mind, The Impossible Burger looks, cooks, smells and tastes like ground beef, but is better for the planet and completely cholesterol free. \n\nDINNER & SHOW PAIRINGS\n \nEnjoy a selection of dishes and cocktails before the 7 p.m. performance of Le Rêve—The Dream.\nDETAILS",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Andreas/logo-andrea.png?h=20&w=101&la=en&vs=1&d=20170504T143938",
-        "openTableLink": "http://www.opentable.com/andreas-reservations-las-vegas?rid=100207&restref=100207",
-        "category": "DINING",
-        "subcategory": "FINE DINING",
-        "timeTableAlt": "Open for dinner Sunday through Thursday from 6 to 10:30 p.m. and on Friday and Saturday until 11:30 p.m.",
-        "timeTable": "Open for dinner Sunday through Thursday from 6 to 10:30 p.m. and on Friday and Saturday until 11:30 p.m.\n\nMENU",
-        "type": "item"
-    },
-    "Item-11": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Allegro/497_Allegro_Exterior_Barbara_Kraft.jpg?h=1618&la=en&w=3000&vs=1&d=20170523T161608",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Allegro/487_Allegro_Main_Dining_WEB_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T130959",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Allegro/486_Allegro_Bar_WEB_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T154626"
-        ],
-        "title": "Allegro",
-        "description": "Chef Enzo Febbraro creates Italian-American favorites that retain the authentic flavors of his home in Italy by using only the freshest ingredients at Allegro. Well-positioned at the hub of many not-to-be-missed offerings at Wynn, Allegro is just steps from the Wynn and Encore show theaters. The energy of the open kitchen with its wood-burning oven compliments the many house-made menu items like fresh pastas, wood stone fired pizzas and Chef Febbraro's signature burrata that he crafts each evening.\n\nLAS VEGAS RESTAURANT WEEK\n\nLas Vegas Restaurant Week offers the unique opportunity to enjoy world-class cuisine while giving back to our community. From Monday, June 19 through Friday, June 30, enjoy a delectable three-course menu crafted by executive chef Enzo Febbraro, with a portion of the proceeds donated to Three Square Food Bank, that will be offered nightly from 5 p.m. to 12 a.m.\n\nClick here to see the menu.\n\nDINNER & SHOW PAIRINGS\n\nPair a three-course menu and specialty cocktail with a ticket to experience timeless icon Diana Ross, legendary funny man Mel Brooks or the award-winning aquatic spectacular Le Rêve – The Dream.\n\nDETAILS",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Allegro/logo-allegro.png?h=32&w=139&la=en&vs=1&d=20170519T131031",
-        "openTableLink": "http://www.opentable.com/allegro-wynn-reservations-las-vegas?rid=109912&restref=109912",
-        "category": "DINING",
-        "subcategory": "CASUAL DINING",
-        "timeTable": "Dinner is served Monday through Friday from 5 p.m. to 6 a.m. and on Saturday and Sunday from 4 p.m. to 6 a.m. A bar menu is also offered daily from 3 to 5 p.m.\n\n\nMENU",
-        "type": "item"
-    },
-    "Item-12": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/The%20Buffet/451_The_Buffet_Atrium_Barbara_Kraft_2.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131048",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/The%20Buffet/453_The_Buffet_Atrium_Interior_Barbara_Kraft.jpg?h=541&la=en&w=1001&vs=1&d=20170330T092934",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/The%20Buffet/454_The_Buffet_Stations_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131200",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/The%20Buffet/456_The%20Buffet_Desserts_Barbara_Kraft.jpg?h=539&la=en&w=1001&vs=1&d=20170519T131210",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/The%20Buffet/465_Buffet_Dessert_Station_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131223"
-        ],
-        "title": "The Buffet at Wynn",
-        "description": "Indulge in a feast for all your senses amid the resplendent surroundings of the all-new buffet at Wynn, voted the \"Best Buffet\" in Las Vegas by the Southern Nevada Hotel Concierge Association. Sample tastes from around the world at the 15 live-action cooking stations presenting rotisserie grilled steakhouse cuts, coast-to-coast seafood and over 120 new dishes, all artfully presented. Newly reimagined décor and impeccable attention to detail imbue what is traditionally a casual dining experience with a fine dining sensibility. The finale is provided by the sweet patisserie, featuring warm pastries, chocolate fountain dipped specialties and an assortment of cakes and confections made daily by our dedicated pastry chefs. As USA Today notes in their review, \"If there's one thing this town is good at, it's taking a great buffet and making it even better.\"\n\nDINNER & SHOW PAIRINGS\n\nVisit The Buffet before or after experiencing timeless icon Diana Ross, legendary funny man Mel Brooks or the award-winning aquatic spectacular Le Rêve – The Dream.\nDETAILS",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/The%20Buffet/logo-thebuffet.png?h=86&w=71&la=en&vs=1&d=20170519T131251",
-        "category": "DINING",
-        "subcategory": "CASUAL DINING",
-        "timeTable": "Open for breakfast Monday through Friday from 7:30 to 11 a.m., for lunch from 11 a.m. to 3:30 p.m. and dinner from 3:30 until 9:30 p.m. Brunch is served on Saturday and Sunday from 7:30 a.m. to 3:30 p.m. with dinner hours from 3:30 p.m. to 9:30 p.m.",
-        "type": "item"
-    },
-    "Item-13": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Drugstore%20Cafe/1_403_Drugstore_Cafe_Exterior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131307",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Drugstore%20Cafe/2_404_Drugstore_Cafe_Interior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131317",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Drugstore%20Cafe/3_405_Drugstore_Cafe_Counter_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131327"
-        ],
-        "title": "The Café",
-        "description": "The Café, adjacent to The Drugstore at Wynn, offers everything from breakfast pastries and sandwiches, to salads and desserts. A wide selection of espresso and specialty coffee drinks offer a pick-me-up any time of the day or night. Located alongside the casino floor and near the Wynn and Encore show theaters, The Café is a perfect spot to grab a bite inside or on the go.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Drugstore%20Cafe/logo-drugstorecafe.png?h=30&w=127&la=en&vs=1&d=20170519T131341",
-        "category": "DINING",
-        "subcategory": "CASUAL DINING",
-        "timeTable": "Open 24 hours daily.",
-        "type": "item"
-    },
-    "Item-14": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Jardin/461_Jardin_Patio_Night_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131400",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Jardin/466_Jardin_Exterior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131414",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Jardin/496_Jardin_Interior_Barbara_Kraft.jpg?h=1618&la=en&w=3000&vs=1&d=20170517T135320"
-        ],
-        "title": "Jardin",
-        "description": "Imagine enjoying the freshest seasonal cuisine in an airy, conservatory-like setting overlooking shimmering pools and manicured greenery. Jardin, Encore’s newest relaxed-dining restaurant, offers panoramic views of the Encore pool and is the setting for Chef Joseph Zanelli’s garden of delights for breakfast, lunch and dinner. The restaurant offers casual elegance with a menu that is equal parts innovative and approachable American cuisine. Choose from classics like the crispy buttermilk chicken sandwich with mustard slaw and garlic-herb ranch or a juicy, grilled Kurobuta pork chop topped with mushroom ragout and orange sage sauce. Breakfast features mouthwatering options like short rib and egg sliders and Maine lobster Benedict. Dine inside for the best vantage of Jardin’s in-the-round views, or request a patio table to immerse yourself in the picturesque setting day or night.\n\nLAS VEGAS RESTAURANT WEEK\n\nLas Vegas Restaurant Week offers the unique opportunity to indulge in world-class cuisine while giving back to our community. From Monday, June 19 through Friday, June 30, enjoy a specialty three-course menu crafted by executive chef Joseph Zanelli, with a portion of the proceeds donated to Three Square Food Bank, that will be offered nightly from 4 to 11 p.m.\n\nClick here to see the menu.\n\nDINNER & SHOW PAIRINGS\n\nPair a three-course menu and specialty cocktail with a ticket to experience timeless icon Diana Ross, legendary funny man Mel Brooks or the award-winning aquatic spectacular Le Rêve – The Dream. \n\nDETAILS",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Jardin/Jardin-Logo.png?h=30&w=100&la=en&vs=1&d=20170519T131447",
-        "openTableLink": "http://www.opentable.com/jardin-encore-at-wynn-reservations-las-vegas?rid=59890&restref=59890",
-        "category": "DINING",
-        "subcategory": "CASUAL DINING",
-        "timeTable": "Open for breakfast, lunch and dinner Sunday through Thursday from 7 a.m. to 11 p.m. and on Friday and Saturday until 12 a.m.\n\nMENU",
-        "type": "item"
-    },
-    "Item-15": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/La%20Cave/1_339_La_Cave_Lounge_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131458",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/La%20Cave/2_340_La_Cave_Cellar_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131508",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/La%20Cave/3_341_La_Cave_Details_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131520"
-        ],
-        "title": "La Cave—Wine & Food Hideaway",
-        "description": "Low ceilings and quiet nooks are what you'll find behind the glass facade and revolving door that is set into the hallway next-door to Terrace Pointe Café at Wynn. At La Cave—Wine & Food Hideaway you'll savor Chef Billy DeMarco's menu of small-plate items from the sea, farm, oven, garden, grill and butcher, paired with artisanal draught beers and an impressive wine list. La Cave offers three distinct environments—the cellar, the front bar area illuminated from above by a sign proclaiming In Vino Veritas, the rustic yet refined dining room, and a patio that looks out over the elegantly-landscaped Wynn resort pool and gardens.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/La%20Cave/logo-lacave.png?h=34&w=132&la=en&vs=1&d=20170519T131533",
-        "openTableLink": "http://www.opentable.com/la-cave-wynn-reservations-las-vegas?rid=111616&restref=111616",
-        "category": "DINING",
-        "subcategory": "CASUAL DINING",
-        "timeTable": "Open for lunch and dinner Monday through Thursday from 11:30 a.m. to 10 p.m. and on Friday and Saturday from 11:30 a.m. to 11 p.m. A tableside butler-style brunch is served on Sunday from 10:30 a.m. to 2:30 p.m. followed by dinner from 4 to 10 p.m.\n\n\nMENU",
-        "type": "item"
-    },
-    "Item-16": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Red%208/486_Red_8_Interior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T154659",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Red%208/435_Red_8_Interior_Table_Barbara_Kraft-DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131943",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Red%208/3_410_Red_8_Entrance_Wide_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T131958"
-        ],
-        "title": "Red 8",
-        "description": "If you find you are in need of some good luck, or you have found good fortune and wish to celebrate it, look no further than the enticing Asian flavors of Red 8 at Wynn. The diverse menu offers familiar favorites—and exotic cuisine that perhaps you have yet to try—from China, Thailand, Vietnam and Korea. Some of Red 8's specialties include Cantonese noodle dishes, dim sum, perfectly prepared vegetable dishes, and Hong Kong-style barbecue. The dining room is saturated with rich reds and interesting textures, and be sure to look to the ceiling as you walk through the entry way to catch a glimpse of a well-hidden design element that adds a touch of artistic inventiveness.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Red%208/logo-red8.png?h=53&w=84&la=en&vs=1&d=20170519T132010",
-        "category": "DINING",
-        "subcategory": "CASUAL DINING",
-        "timeTable": "Open for lunch daily at 11:30 a.m. Dinner is served Sunday through Thursday until 12 a.m., and until 1 a.m. on Friday and Saturday.\n\nMENU",
-        "type": "item"
-    },
-    "Item-17": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/2_416_Terrace_Pointe_Cafe_Patio_Wynn_Mag_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T130935",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Terrace%20Pointe%20Cafe/3_433_Terrace_Pointe_Cafe_Interior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T132157",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Terrace%20Pointe%20Cafe/1_415_Terrace_Pointe_Cafe_Patio_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T132212"
-        ],
-        "title": "Terrace Pointe Café",
-        "description": "Terrace Pointe Café at Wynn showcases lively decor, replete with sunlight that streams in from the floor-to-ceiling, panoramic view of the carefully manicured gardens surrounding the Wynn resort pool. Breakfast, lunch and brunch favorites are deliciously reinvented and perfectly prepared in this relaxed café with a refined feel. Dine on a variety of specialties like brioche French toast, truffle mushroom Angus burger, or indulge in a triple thick malted shake or banana split waffle bowl sundae poolside on the sizable patio.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Terrace%20Pointe%20Cafe/logo-terracepointcafe.png?h=60&w=130&la=en&vs=1&d=20170519T132439",
-        "category": "DINING",
-        "subcategory": "CASUAL DINING",
-        "timeTable": "Open daily from 6 a.m. to 3 p.m.\nMENU",
-        "type": "item"
-    },
-    "Item-18": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Wazuzu/1_333_Wazuzu_Interior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T132456",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Wazuzu/2_334_Wazuzu_Exterior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T132510",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Wazuzu/3_430_Wazuzu_Wide_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T132528"
-        ],
-        "title": "Wazuzu",
-        "description": "Inventive fare in a wondrously unanticipated environment is what you'll find in Wazuzu at Encore. Chef Chen Wei Chan's exceptional Pan-Asian menu features flavors inspired by Chinese, Japanese, and Thai cuisine. Chef Chan’s training as a painter in Taiwan shows in the artful plating of his dishes, which succeed in being as beautiful as the glittering 27-foot dragon made of ninety thousand individual crystals that is the focal point of Wazuzu’s bold décor. Be sure to try the drunken noodles that were featured on Food Network’s \"Best Thing I Ever Ate.\"",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Wazuzu/logo-wazuzu.png?h=63&w=127&la=en&vs=1&d=20170519T132544",
-        "category": "DINING",
-        "subcategory": "CASUAL DINING",
-        "timeTable": "Open for lunch and dinner Sunday through Thursday from 11:30 a.m. to 10:30 p.m. and on Friday and Saturday from 11:30 a.m. until 1 a.m. \n\nMENU",
-        "type": "item"
-    },
-    "Item-2": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Bartolotta/396_Costa_Cabanas_Twilight_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170421T110210",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Bartolotta/374_Bartolotta_Interior_Barbara_Kraft_DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144041",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Bartolotta/371_Bartolotta_Cabana_View_Barbara_Kraft_DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144055",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Bartolotta/375_Bartolotta_Lagoon_Barbara_Kraft_DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144109",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Bartolotta/397_Costa_Cabana_Table_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144122"
-        ],
-        "title": "Costa Di Mare",
-        "description": "Costa di Mare, the Forbes Travel Guide Four-Star Award-winning restaurant at Wynn, showcases the acclaimed seafood prepared by chef Mark LoRusso. LoRusso, voted \"Best Chef\" in Las Vegas by the Southern Nevada Hotel Concierge Association creates his menu nightly, featuring fresh Mediterranean seafood and Italian cuisine with house-made pastas and over forty varieties of fresh fish and shellfish flown in daily from Italy’s coastal waters. You may choose to sit in the bold, freshly redesigned dining room or outside in a private cabana surrounding the serene lagoon. It is recommended to make a cabana table reservation in advance of your arrival by calling (702) 770-3305.\n\n\nAPERITIVO\n\n\nVisit the bar for a nightly menu of sharable plates and classic Italian cocktails perfect for before dinner or a show. \nDETAILS\n\nA NIGHT AT THE JAMES BEARD HOUSE\n\n\nExperience the menu chef Mark LoRusso presented at the James Beard House. \nDETAILS",
-        "logo": "http://static.wynnlasvegas.com/~/media/Costa-di-MareLogoNEW.png?h=60&w=188&la=en&vs=1&d=20151016T161722",
-        "openTableLink": "http://www.opentable.com/costa-di-mare-wynn-reservations-las-vegas?rid=75688&restref=75688",
-        "category": "DINING",
-        "subcategory": "FINE DINING",
-        "timeTable": "Open for dinner nightly from 5:30 to 10 p.m.\n\n\nMENU",
-        "type": "item"
-    },
-    "Item-20": {
-        "images": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Eastside/426_Eastside_Lounge_Barbara_Kraft-DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20170519T132722",
-        "title": "Eastside Lounge",
-        "description": "At Eastside Lounge, you can sip an alluring cocktail while appreciating the stunning views of Encore's resort pool. Eastside Lounge features expertly prepared classic and hand-crafted specialty cocktails along with a full selection of spirits, wine and beer.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Eastside/logo-eastside.png?h=49&w=152&la=en&vs=1&d=20170519T132735",
-        "category": "DINING",
-        "subcategory": "BARS & LOUNGES",
-        "timeTable": "Open evenings from 6 p.m. to 2 a.m.",
-        "type": "item"
-    },
-    "Item-21": {
-        "images": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Encore%20Lobby%20Bar/1_427_Lobby_Bar_Cafe_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T132752",
-        "title": "Lobby Bar & Café",
-        "description": "A few steps from Encore's main entrance and the elevators ascending to the resort rooms is the cleverly positioned and aptly-named Lobby Bar & Café. Adorned in rich reds, the centerpiece of the lounge is a golden sculpture of the mythic Greek nymph, Daphne. She is rendered here, in the heart of the café, right as she is metamorphosing into a laurel tree to elude Apollo. For guests of Encore Tower Suites, Lobby Bar & Café is where you'll enjoy complimentary tea and coffee service each morning.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Encore%20Lobby%20Bar/logo-lobbybar.png?h=34&w=151&la=en&vs=1&d=20170519T132809",
-        "category": "DINING",
-        "subcategory": "BARS & LOUNGES",
-        "timeTableAlt": "Open daily from 6 a.m. until 2 a.m.",
-        "timeTable": "Open daily from 6 a.m. until 2 a.m.",
-        "type": "item"
-    },
-    "Item-22": {
-        "images": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/EncorePlayersClubBar/441_VDKA_Barbara_20Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170519T132900",
-        "title": "Encore Players Bar",
-        "description": "Sip some of the rarest and uniquely flavored vodkas at Encore Players Bar, adjacent to Encore Players Lounge and the entrance to Andrea's. Encore Players Bar offers a selection of 150 vodkas, including Las Vegas' largest selection of essence-infused vodkas, served as frosty shots or expertly mixed in adventurous cocktails featuring flavors like bacon, peanut butter or whipped cream. Each shot poured uses a signature dispensing system to ensure that the distinct taste is ice cold.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/EncorePlayersClubBar/logo-encore-players-bar.png?&la=en&vs=1&d=20160715T024036",
-        "category": "DINING",
-        "subcategory": "BARS & LOUNGES",
-        "timeTable": "Open nightly at 6 p.m.",
-        "type": "item"
-    },
-    "Item-23": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Parasol%20Down/442_Parasol%20Down_Exterior_Barbara%20Kraft_New.jpg?h=540&la=en&w=1001&vs=1&d=20170519T132638",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Parasol%20Down/0_428_Parasol_Down_Barbara_Kraft.jpg?h=541&la=en&w=1001&vs=1&d=20170519T133006"
-        ],
-        "title": "Parasol Down",
-        "description": "Parasol Down at Wynn offers one of the most memorable views that you'll experience at Wynn Las Vegas and Encore, and it is an experience not to be missed. To reach this semi-secluded lounge, you will ride a spiraling escalator down from its sister lounge, Parasol Up, through slowly twirling, multicolored parasols that hang above and are their namesake. Once you reach Parasol Down, you'll be spellbound by the spectacular vision of the 40-foot waterfall rushing down a pine-topped mountain, towering over the dazzling Lake of Dreams.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Parasol%20Down/logo-parasoldown.png?h=149&w=90&la=en&vs=1&d=20170519T133034",
-        "category": "DINING",
-        "subcategory": "BARS & LOUNGES",
-        "timeTable": "Open daily from 11 a.m. to 2 a.m.",
-        "type": "item"
-    },
-    "Item-24": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Parasol%20Up/498_Parasol_Up_Interior_WEB_V2_Jeff-Green.jpg?h=540&la=en&w=1001&vs=1&d=20170523T161710",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Parasol%20Up/499_Parasol_Up_Interior_View_WEB_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170523T161718"
-        ],
-        "title": "Parasol Up",
-        "description": "The freshly redesigned Parasol Up lounge offers a light and airy vantage point to delight in a panoramic view over much of Wynn Las Vegas. Positioned at the crossing of the casino, the blossom-filled atrium and the Wynn Esplanade, Parasol Up looks out beyond the eponymous dancing parasols, and over the 40-foot waterfall that cascades down into the Lake of Dreams. Stop by to drink in the sights and sample the all-new cocktail menu featuring specialty creations exclusive to Parasol Up.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Parasol%20Up/logo-parasolup.png?h=123&w=88&la=en&vs=1&d=20170519T133134",
-        "category": "DINING",
-        "subcategory": "BARS & LOUNGES",
-        "timeTable": "Open Sunday through Thursday from 11 a.m. to 3 a.m. and on Friday and Saturday from 11 a.m. to 4 a.m.",
-        "type": "item"
-    },
-    "Item-25": {
-        "images": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Terrace%20Lounge/495_Wynn_Balloon_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170501T152836",
-        "title": "Terrace Lounge",
-        "description": "Just steps beyond the lush Atrium that surrounds Wynn’s main entrance and registration desk is the resort’s newest place to enjoy a refreshing drink, Terrace Lounge. This bright space has an excellent view of the whimsical hot air balloon created by acclaimed floral designer Preston Bailey, as well as outdoor seating overlooking the Lake of Dreams. Terrace Lounge offers hand-crafted specialty cocktails and an elegant selection of wines, fine spirits and beers.\n\nAFTERNOON TEA\n\nEnjoy elegant afternoon tea served daily at Terrace Lounge. Relax with your choice of fine loose-leaf teas including herbal blends, green leaves, white leaves, blooming and black teas. Tea service also includes an assortment of tea sandwiches, scones and patisserie sweets.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Terrace%20Lounge/TerraceLounge_Logo_White.png?la=en&vs=1&d=20170501T132005",
-        "category": "DINING",
-        "subcategory": "BARS & LOUNGES",
-        "timeTableAlt": "Open daily from 12 p.m. to 12 a.m. Afternoon Tea is served daily from 12 to 4 p.m.",
-        "timeTable": "Open daily from 12 p.m. to 12 a.m. Afternoon Tea is served daily from 12 to 4 p.m.\nTerrace Lounge is also available for group entertaining. To plan a cocktail reception, please call (702) 770-2251.",
-        "type": "item"
-    },
-    "Item-26": {
-        "images": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Tower%20Suite%20Bar/439_Tower_Suite_Bar_Robert_Miller_08-17.jpg?h=540&la=en&w=1001&vs=1&d=20170519T133217",
-        "title": "Tower Suite Bar",
-        "description": "Within the elegant Tower Suite Lobby at Wynn, you'll find the sparkling jewel that is the Tower Suite Bar. Serving both as a gathering place and an elegant transition into Tableau, the Tower Suite Bar is also the entrance to the Wynn Tower Suites and an exquisite place to sip a morning coffee or to enjoy an evening cocktail or glass of Champagne.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Bars%20and%20Lounges/Tower%20Suite%20Bar/logo-towersuitebar.png?h=80&w=77&la=en&vs=1&d=20170519T133230",
-        "category": "DINING",
-        "subcategory": "BARS & LOUNGES",
-        "timeTable": "Open Sunday through Thursday from 6 a.m. until 12 a.m. and on Friday and Saturday from 6 a.m. until 2 a.m.",
-        "type": "item"
-    },
-    "Item-3": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Country%20Club/373_Country_Club_Patio_Evening_Barbara-Kraft_DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20170504T143734",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Country%20Club/1_309_Country_Club_Patio_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144315",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Country%20Club/401_Country_Club_Dining_View_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144335",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Country%20Club/3_311_Country_Club_Bar_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144350",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Country%20Club/489_The_Country_Club_Lounge_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144407"
-        ],
-        "title": "Country Club—A New American Steakhouse",
-        "description": "The Country Club—A New American Steakhouse presents innovative fare by Chef Rene Lenger overlooking the 18th hole on the Wynn Golf Course. A Forbes Travel Guide Four-Star Award-winner, this restaurant is the realization of Steve Wynn's vision to create an upscale golf club that would be accessible to all guests. Savor charred-to-perfection steaks, ocean fresh seafood and prime rib elegantly carved table-side. The Country Club serves lunch, dinner and brunch on weekends, with a unique Jazz Brunch offered on Sundays.\n\nJAZZ BRUNCH\n\nThis bountiful Sunday brunch buffet, which includes a carving station and selections from Lenger’s kitchen, is accompanied by the spirited jazz of a live Dixieland band. See for yourself why the Southern Nevada Hotel Concierge Association named this the \"Best Brunch\" in Las Vegas for the second consecutive year. \n\nTHE IMPOSSIBLE BURGER \n\nThe sensational Impossible Burger, found only at a handful of restaurants in America, recently made its debut in Las Vegas, available exclusively at Wynn. The Impossible Burger is 100% plant based and looks, cooks, smells and tastes like ground beef, but is better for the planet and completely cholesterol free. The Impossible Burger is now available at The Country Club for lunch Monday through Saturday.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Country%20Club/logo-countryclub.png?h=17&w=205&la=en&vs=1&d=20170504T144428",
-        "openTableLink": "http://www.opentable.com/the-country-club-wynn-reservations-las-vegas?rid=75427&restref=75427",
-        "category": "DINING",
-        "subcategory": "FINE DINING",
-        "timeTable": "Open for lunch Monday through Friday from 11:30 a.m. to 2:30 p.m., for dinner Wednesday through Saturday from 5:30 to 10 p.m. and brunch Saturday from 10 a.m. to 2:30 p.m. Jazz Brunch is served Sunday from 10 a.m. to 2 p.m. A lounge menu is offered Monday through Saturday 2:30 to 4 p.m.\n\n\nMENU",
-        "type": "item"
-    },
-    "Item-4": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Lakeside%20Seafood/1_312_Lakeside_Exterior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144452",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Lakeside%20Seafood/2_313_Lakeside_Private_Dining_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144506",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Lakeside%20Seafood/380_Lakeside_Patio_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144519",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Lakeside%20Seafood/3_314_Lakeside_Interior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144531",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Lakeside%20Seafood/344_Lakeside_Bar_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144544"
-        ],
-        "title": "Lakeside",
-        "description": "Lakeside at Wynn not only offers exceptionally fresh seafood and mouthwatering steaks, but also an incredible view of the Lake of Dreams. Chef David Walzog’s specialties include \"ocean-to-table\" fresh fish caught from Hawaiian waters, an exotic variety of oven roasted lobster and crab, and prime aged steaks. This Forbes Travel Guide Four-Star Award-winning restaurant offers a unique energy that sets the stage for a menu that focuses on fresh, seasonally available preparations and your choice of expertly paired sides. Vegas Seven regards Lakeside as, “one of the best places in the world for enjoying the bounty of the world’s oceans.”\n\nDINNER & SHOW PAIRINGS\n\nPair an all-inclusive prix-fixe menu with a ticket to experience timeless icon Diana Ross or legendary funny man Mel Brooks in the intimate Encore Theater. \nDETAILS\n\nPOKE & OYSTER HAPPY HOUR\n\nNightly from 5:30 to 7 p.m. in the lounge, Lakeside is offering a new Hawaiian-inspired menu of small plates along with chilled East and West Coast oysters.\nDETAILS",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Lakeside%20Seafood/logo-lakeside.png?h=31&w=99&la=en&vs=1&d=20170504T144621",
-        "openTableLink": "http://www.opentable.com/lakeside-wynn-reservations-las-vegas?rid=59875&restref=59875",
-        "category": "DINING",
-        "subcategory": "FINE DINING",
-        "timeTable": "Open for dinner nightly from 5:30 to 10 p.m.\n\nMENU",
-        "type": "item"
-    },
-    "Item-5": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Mizumi/350_Mizumi_Main_Dining_Room_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144648",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Mizumi/351_Mizumi_Pagoda_Table_Twilight_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144658",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Mizumi/372_Mizumi_Teppan_Room_DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144719",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Mizumi/352_Mizumi_Waterfall_View_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144733",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/398_Mizumi_Patio_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144750"
-        ],
-        "title": "Mizumi",
-        "description": "Chef Devin Hashimoto, named \"Best Chef on The Strip\" by Vegas Seven, uses his fresh approach to Japanese cuisine by presenting a choice of dining experiences at Mizumi: a robatayaki bar, a teppanyaki room, ocean-fresh sushi and sashimi, and items from his kitchen. Located at Wynn, the entire Forbes Travel Guide Four-Star Award-winning restaurant looks out over private Japanese gardens surrounding an idyllic koi pond with a shimmering 90-foot waterfall. Experience the picturesque view and stylish, fine-dining approach to the delicious theatrics of teppanyaki presented in the teppan room.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Mizumi/logo-mizumi.png?h=19&w=100&la=en&vs=1&d=20170504T144808",
-        "openTableLink": [
-            "http://www.opentable.com/mizumi-wynn-reservations-las-vegas?rid=89977&restref=89977",
-            "http://www.opentable.com/mizumi-teppan-wynn-reservations-las-vegas?rid=110143&restref=110143"
-        ],
-        "category": "DINING",
-        "subcategory": "FINE DINING",
-        "timeTable": "Open for dinner Sunday through Thursday from 5:30 to 10 p.m. and on Friday and Saturday until 10:30 p.m\nMENU",
-        "type": "item"
-    },
-    "Item-6": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Sinatra/1_318_Sinatra_Interior_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144846",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Sinatra/2_319_Sinatra_Bar_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144900",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Sinatra/3_320_Sinatra_Patio_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144913",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Sinatra/345_Sinatra_Dining_Room_to_Patio_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144926"
-        ],
-        "title": "Sinatra",
-        "description": "If you like Frank Sinatra, you'll love our Forbes Travel Guide Four-Star Award-winning tribute to Ol' Blue Eyes. Sinatra, inside Encore, showcases Chef Theo Schoenegger's modern twist on classic Italian cooking, including many of Frank's personal favorites that Chef Schoenegger prepared for him, like spaghetti and clams, or ossobuco. Choose to sit inside in the dining room, adorned with iconic memories from Sinatra's storied career including his Academy Award for Best Supporting Actor in \"From Here to Eternity,\" his Grammy Award for \"Strangers in the Night,\" and his Emmy for \"Frank Sinatra: A Man and His Music\" or dine fireside on the charming outdoor patio.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Sinatra/logo-sinatra.png?h=31&w=116&la=en&vs=1&d=20170504T144943",
-        "openTableLink": "http://www.opentable.com/sinatra-encore-at-wynn-reservations-las-vegas?rid=59881&restref=59881",
-        "category": "DINING",
-        "subcategory": "FINE DINING",
-        "timeTable": "Open for dinner nightly from 5:30 to 10 p.m.\nMENU",
-        "type": "item"
-    },
-    "Item-7": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/SW%20Steakhouse/390_SW_Steakhouse_Patio_Barbara_Kraft.jpg?h=1618&la=en&w=3000&vs=1&d=20170504T145011",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/SW%20Steakhouse/1000_SW_Main_Dining_Lake_View_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170607T150030",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/SW%20Steakhouse/392_SW_Bar_Barbara_Kraft.jpg?h=1618&la=en&w=3000&vs=1&d=20170504T145520",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/SW%20Steakhouse/391_SW_Dining_Room_Barbara_Kraft.jpg?h=1618&la=en&w=3000&vs=1&d=20170504T145027",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/SW%20Steakhouse/393_SW_Private_Dining_Barbara_Kraft.jpg?h=1618&la=en&w=3000&vs=1&d=20170504T145557"
-        ],
-        "title": "SW Steakhouse",
-        "description": "Chef David Walzog's Forbes Travel Guide Four-Star Award-winning SW Steakhouse at Wynn offers steaks that are unparalleled in Las Vegas. While you dine on exceptional American steakhouse fare, you'll be dazzled by the nightly shows that happen on the Lake of Dreams, making SW Steakhouse a delight to all senses. Entrees like the chili-rubbed double rib eye, featured on Food Network's \"Best Thing I Ever Ate,\" are skillfully paired with sides that allow Chef Walzog to show off his culinary chops with seasonal, exotic ingredients like black truffle creamed corn.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/SW%20Steakhouse/sw-steakhouse.png?h=47&w=47&la=en&vs=1&d=20141205T181723",
-        "openTableLink": "http://www.opentable.com/sw-steakhouse-wynn-reservations-las-vegas?rid=110149&restref=110149",
-        "category": "DINING",
-        "subcategory": "FINE DINING",
-        "timeTable": "Open for dinner nightly from 5:30 to 10 p.m.\n\nMENU",
-        "type": "item"
-    },
-    "Item-8": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Tableau/395_Tableau_Conservatory_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T145639",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Tableau/481_Tableau_Main_Dining_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T145657",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Tableau/3_349_Tableau_Bar_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T145714"
-        ],
-        "title": "Tableau",
-        "description": "Just steps away from the private Wynn Tower Suites elevators, you'll find the bright and elegant American-style restaurant Tableau. If you are a guest in our Wynn Tower Suites, this is where you will enjoy daily complimentary breakfast. Chef David Middleton's menu builds on seasonally-sourced ingredients to present market-fresh breakfast, lunch and brunch selections like strawberry blintz buttermilk pancakes, heirloom tomato salad and Mediterranean branzino. Choose to sit in the conservatory to enjoy the gorgeous garden and pool views or dine outdoors, poolside on the patio.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Tableau/logo-tableau.png?h=32&w=135&la=en&vs=1&d=20170504T145729",
-        "openTableLink": "http://www.opentable.com/tableau-wynn-reservations-las-vegas?rid=110152&restref=110152",
-        "category": "DINING",
-        "subcategory": "FINE DINING",
-        "timeTable": "Open for breakfast Monday through Friday from 7 to 11:30 a.m. and lunch until 2:30 p.m. Brunch is served Saturdays and Sundays from 7 a.m. until 2:30 p.m.\n\nTableau is also available each evening for private events.\n\nMENU",
-        "type": "item"
-    },
-    "Item-9": {
-        "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Wing%20Lei/363_Wing_Lei_Dining_Room_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T145751",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Wing%20Lei/370_Wing-Lei_Bar_Barbara-Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T145812",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Wing%20Lei/369_Wing_Lei_Private_Dining_Room_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T145826",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Wing%20Lei/399_Wing_Lei_Main_Dining_Room_Barbara_Kraft.JPG?h=540&la=en&w=1001&vs=1&d=20170504T145839",
-            "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Wing%20Lei/400_Wing_Lei_Group_Dining_Barbara_Kraft.JPG?h=540&la=en&w=1001&vs=1&d=20170504T145858"
-        ],
-        "title": "Wing Lei",
-        "description": "Wing Lei, the first Chinese restaurant in the country to be awarded a Michelin Star and the only Forbes Travel Guide Five-Star Award-winning Chinese restaurant in North America, combines Chinese flavors with Western technique to create an exceptional dining experience at Wynn. A lavish gold and jewel-toned dining space draws inspiration from elements of classical Chinese architecture and design to create contemporary rooms that are rich and eclectic. Wing Lei features a view of a private garden that harbors century-old pomegranate trees and a gleaming golden dragon. The elegant surroundings pair perfectly with Chef Ming Yu’s menu—a masterful mix of Cantonese, Shanghai and Szechuan flavors—featuring delicacies like tableside-carved Imperial Peking duck, mu shu pork and wok-fried Maine lobster.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Wing%20Lei/logo-winglei.png?h=66&w=142&la=en&vs=1&d=20170504T145914",
-        "openTableLink": "http://www.opentable.com/wing-lei-reservations-las-vegas?rid=75799&restref=75799",
-        "category": "DINING",
-        "subcategory": "FINE DINING",
-        "timeTable": "Open for dinner Sunday through Thursday from 5:30 to 9:30 p.m. and on Friday and Saturday until 10 p.m.\nMENU",
-        "type": "item"
+    "Experience": {
+        "title": "EXPERIENCES",
+        "images": "http://static.wynnlasvegas.com/~/media/WLV/821_Wynn_Encore_Exterior_LOD_Dark_Water.jpg?h=540&la=en&w=1001&vs=1&d=20160209T203137",
+        "description": "Whether you're anticipating your first visit to Wynn Las Vegas, or you're planning a regular trip to your home away from home, there’s always something new to discover at our resort. Choose to include a one-of-a-kind experience during your visit to turn your moments here into unforgettable memories.",
+        "type": "category"
     },
     "MeetingsAndWeddings": {
         "title": "MEETINGS & WEDDINGS",
         "images": "http://static.wynnlasvegas.com/~/media/WLV/Meetings%20and%20Weddings/Meetings/736_Encore_Hallway_Right_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20141216T113702",
         "description": "Wynn Las Vegas and Encore offer 260,000 square feet of beautiful and unique settings for any size meeting, convention or event. Many meeting spaces boast floor-to-ceiling windows with stunning views overlooking the pools and gardens of the resort.  Our expert consultants, wedding planners, conference managers and catering staff are at your service to assist you in planning an event that is not only memorable, but unforgettable.",
         "type": "category"
+    },
+    "NightLiveEvents": {
+        "type": "nightlive-item",
+        "data": [
+            {
+                "eventid": "149811",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/149811/118SC150/173798.jpg",
+                "evvname": "Nicky Romero - Nightswim",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-06-18",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435460",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170618v11066556/nicky-romero-nightswim",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435460"
+            },
+            {
+                "eventid": "149658",
+                "key": "ebc",
+                "venueid": "701133708",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1103/149658/118SC150/151447.jpg",
+                "evvname": "The Chainsmokers",
+                "evvenuename": "Encore Beach Club",
+                "evdate": "2017-06-18",
+                "evtick": "https://www.ticketfly.com/purchase/event/1418237",
+                "evtable": "http://encorebeachclub.com/uvtixmap/20170618v701133708/the-chainsmokers",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1418237"
+            },
+            {
+                "eventid": "149838",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/149838/118SC150/164351.jpg",
+                "evvname": "Diplo",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-06-19",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435461",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170619v11066556/diplo",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435461"
+            },
+            {
+                "eventid": "149754",
+                "key": "surrender",
+                "venueid": "701133710",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1111/149754/118SC150/180333.jpg",
+                "evvname": "Lost Kings",
+                "evvenuename": "Surrender Nightclub",
+                "evdate": "2017-06-21",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435442",
+                "evtable": "http://surrendernightclub.com/uvtixmap/20170621v701133710/lost-kings",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435442"
+            },
+            {
+                "eventid": "149709",
+                "key": "intrigue",
+                "venueid": "406544126",
+                "evpic": "https://venueeventartist.com/imateq/event/446/36868/149709/118SC150/178218.jpg",
+                "evvname": "Alan Walker + Politik",
+                "evvenuename": "Intrigue Nightclub",
+                "evdate": "2017-06-22",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435427",
+                "evtable": "http://intriguevegas.com/event-tickets/20170622149709/alan-walker-politik",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435427"
+            },
+            {
+                "eventid": "149814",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/149814/118SC150/150458.jpg",
+                "evvname": "The Chainsmokers",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-06-23",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435462",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170623v11066556/the-chainsmokers",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435462"
+            },
+            {
+                "eventid": "149712",
+                "key": "intrigue",
+                "venueid": "406544126",
+                "evpic": "https://venueeventartist.com/imateq/event/446/36868/149712/118SC150/151461.jpg",
+                "evvname": "Stafford Brothers",
+                "evvenuename": "Intrigue Nightclub",
+                "evdate": "2017-06-23",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435428",
+                "evtable": "http://intriguevegas.com/event-tickets/20170623149712/stafford-brothers",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435428"
+            },
+            {
+                "eventid": "149661",
+                "key": "ebc",
+                "venueid": "701133708",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1103/149661/118SC150/180113.jpg",
+                "evvname": "Marshmello",
+                "evvenuename": "Encore Beach Club",
+                "evdate": "2017-06-23",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435410",
+                "evtable": "http://encorebeachclub.com/uvtixmap/20170623v701133708/marshmello",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435410"
+            },
+            {
+                "eventid": "170060",
+                "key": "ebcnight",
+                "venueid": "405660315",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1163/170060/118SC150/170063.jpg",
+                "evvname": "Getter - Nightswim",
+                "evvenuename": "EBC at Night",
+                "evdate": "2017-06-23",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435443",
+                "evtable": "http://surrendernightclub.com/uvtixmap/20170623v405660315/getter-nightswim",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435443"
+            },
+            {
+                "eventid": "149817",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/149817/118SC150/150457.jpg",
+                "evvname": "Alesso",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-06-24",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435463",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170624v11066556/alesso",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435463"
+            },
+            {
+                "eventid": "149715",
+                "key": "intrigue",
+                "venueid": "406544126",
+                "evpic": "https://venueeventartist.com/imateq/event/446/36868/149715/118SC150/176669.jpg",
+                "evvname": "Frank Walker",
+                "evvenuename": "Intrigue Nightclub",
+                "evdate": "2017-06-24",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435429",
+                "evtable": "http://intriguevegas.com/event-tickets/20170624149715/frank-walker",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435429"
+            },
+            {
+                "eventid": "149664",
+                "key": "ebc",
+                "venueid": "701133708",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1103/149664/118SC150/151452.jpg",
+                "evvname": "The Chainsmokers with Special Guests Sultan + Shepard",
+                "evvenuename": "Encore Beach Club",
+                "evdate": "2017-06-24",
+                "evtick": "https://www.ticketfly.com/purchase/event/1418238",
+                "evtable": "http://encorebeachclub.com/uvtixmap/20170624v701133708/the-chainsmokers-with-special-guests-sultan-shepard",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1418238"
+            },
+            {
+                "eventid": "171423",
+                "key": "ebcnight",
+                "venueid": "405660315",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1163/171423/118SC150/171635.jpg",
+                "evvname": "Duke Dumont - Nightswim",
+                "evvenuename": "EBC at Night",
+                "evdate": "2017-06-24",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435444",
+                "evtable": "http://surrendernightclub.com/uvtixmap/20170624v405660315/duke-dumont-nightswim",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435444"
+            },
+            {
+                "eventid": "149820",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/149820/118SC150/156971.jpg",
+                "evvname": "Kygo - Nightswim",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-06-25",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435464",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170625v11066556/kygo-nightswim",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435464"
+            },
+            {
+                "eventid": "149667",
+                "key": "ebc",
+                "venueid": "701133708",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1103/149667/118SC150/151453.jpg",
+                "evvname": "Alesso",
+                "evvenuename": "Encore Beach Club",
+                "evdate": "2017-06-25",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435411",
+                "evtable": "http://encorebeachclub.com/uvtixmap/20170625v701133708/alesso",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435411"
+            },
+            {
+                "eventid": "149823",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/149823/118SC150/175171.jpg",
+                "evvname": "MakJ",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-06-26",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435465",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170626v11066556/makj",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435465"
+            },
+            {
+                "eventid": "149763",
+                "key": "surrender",
+                "venueid": "701133710",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1111/149763/118SC150/180334.jpg",
+                "evvname": "A-Trak",
+                "evvenuename": "Surrender Nightclub",
+                "evdate": "2017-06-28",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435445",
+                "evtable": "http://surrendernightclub.com/uvtixmap/20170628v701133710/a-trak",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435445"
+            },
+            {
+                "eventid": "149718",
+                "key": "intrigue",
+                "venueid": "406544126",
+                "evpic": "https://venueeventartist.com/imateq/event/446/36868/149718/118SC150/151463.jpg",
+                "evvname": "Slander",
+                "evvenuename": "Intrigue Nightclub",
+                "evdate": "2017-06-29",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435430",
+                "evtable": "http://intriguevegas.com/event-tickets/20170629149718/slander",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435430"
+            },
+            {
+                "eventid": "149826",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/149826/118SC150/178314.jpg",
+                "evvname": "DJ Snake",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-06-30",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435466",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170630v11066556/dj-snake",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435466"
+            },
+            {
+                "eventid": "149721",
+                "key": "intrigue",
+                "venueid": "406544126",
+                "evpic": "https://venueeventartist.com/imateq/event/446/36868/149721/118SC150/151464.jpg",
+                "evvname": "Flosstradamus",
+                "evvenuename": "Intrigue Nightclub",
+                "evdate": "2017-06-30",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435431",
+                "evtable": "http://intriguevegas.com/event-tickets/20170630149721/flosstradamus",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435431"
+            },
+            {
+                "eventid": "149670",
+                "key": "ebc",
+                "venueid": "701133708",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1103/149670/118SC150/181638.jpg",
+                "evvname": "DJ Vice",
+                "evvenuename": "Encore Beach Club",
+                "evdate": "2017-06-30",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435412",
+                "evtable": "http://encorebeachclub.com/uvtixmap/20170630v701133708/dj-vice",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435412"
+            },
+            {
+                "eventid": "171436",
+                "key": "ebcnight",
+                "venueid": "405660315",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1163/171436/118SC150/180034.jpg",
+                "evvname": "EDX - Nightswim",
+                "evvenuename": "EBC at Night",
+                "evdate": "2017-06-30",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435446",
+                "evtable": "http://surrendernightclub.com/uvtixmap/20170630v405660315/edx-nightswim",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435446"
+            },
+            {
+                "eventid": "149829",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/149829/118SC150/156995.jpg",
+                "evvname": "Alesso",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-07-01",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435468",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170701v11066556/alesso",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435468"
+            },
+            {
+                "eventid": "149724",
+                "key": "intrigue",
+                "venueid": "406544126",
+                "evpic": "https://venueeventartist.com/imateq/event/446/36868/149724/118SC150/157080.jpg",
+                "evvname": "Chuckie",
+                "evvenuename": "Intrigue Nightclub",
+                "evdate": "2017-07-01",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435432",
+                "evtable": "http://intriguevegas.com/event-tickets/20170701149724/chuckie",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435432"
+            },
+            {
+                "eventid": "149673",
+                "key": "ebc",
+                "venueid": "701133708",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1103/149673/118SC150/167500.jpg",
+                "evvname": "Marshmello",
+                "evvenuename": "Encore Beach Club",
+                "evdate": "2017-07-01",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435416",
+                "evtable": "http://encorebeachclub.com/uvtixmap/20170701v701133708/marshmello",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435416"
+            },
+            {
+                "eventid": "171450",
+                "key": "ebcnight",
+                "venueid": "405660315",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1163/171450/118SC150/179888.jpg",
+                "evvname": "Robin Schulz - Nightswim",
+                "evvenuename": "EBC at Night",
+                "evdate": "2017-07-01",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435447",
+                "evtable": "http://surrendernightclub.com/uvtixmap/20170701v405660315/robin-schulz-nightswim",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435447"
+            },
+            {
+                "eventid": "149832",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/149832/118SC150/157065.jpg",
+                "evvname": "Marshmello - Nightswim",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-07-02",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435469",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170702v11066556/marshmello-nightswim",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435469"
+            },
+            {
+                "eventid": "149676",
+                "key": "ebc",
+                "venueid": "701133708",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1103/149676/118SC150/158072.jpg",
+                "evvname": "DJ Snake",
+                "evvenuename": "Encore Beach Club",
+                "evdate": "2017-07-02",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435413",
+                "evtable": "http://encorebeachclub.com/uvtixmap/20170702v701133708/dj-snake",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435413"
+            },
+            {
+                "eventid": "149835",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/149835/118SC150/157066.jpg",
+                "evvname": "Diplo",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-07-03",
+                "evtick": "https://www.ticketfly.com/purchase/event/1435471",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170703v11066556/diplo",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1435471"
+            },
+            {
+                "eventid": "156286",
+                "key": "surrender",
+                "venueid": "701133710",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1111/156286/118SC150/158113.jpg",
+                "evvname": "RL Grime",
+                "evvenuename": "Surrender Nightclub",
+                "evdate": "2017-07-05",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447939",
+                "evtable": "http://surrendernightclub.com/uvtixmap/20170705v701133710/rl-grime",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447939"
+            },
+            {
+                "eventid": "156195",
+                "key": "intrigue",
+                "venueid": "406544126",
+                "evpic": "https://venueeventartist.com/imateq/event/446/36868/156195/118SC150/157081.jpg",
+                "evvname": "Dillon Francis",
+                "evvenuename": "Intrigue Nightclub",
+                "evdate": "2017-07-06",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447763",
+                "evtable": "http://intriguevegas.com/event-tickets/20170706156195/dillon-francis",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447763"
+            },
+            {
+                "eventid": "156086",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/156086/118SC150/157067.jpg",
+                "evvname": "The Chainsmokers",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-07-07",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447817",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170707v11066556/the-chainsmokers",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447817"
+            },
+            {
+                "eventid": "156198",
+                "key": "intrigue",
+                "venueid": "406544126",
+                "evpic": "https://venueeventartist.com/imateq/event/446/36868/156198/118SC150/178508.jpg",
+                "evvname": "Yellow Claw",
+                "evvenuename": "Intrigue Nightclub",
+                "evdate": "2017-07-07",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447773",
+                "evtable": "http://intriguevegas.com/event-tickets/20170707156198/yellow-claw",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447773"
+            },
+            {
+                "eventid": "156171",
+                "key": "ebc",
+                "venueid": "701133708",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1103/156171/118SC150/158073.jpg",
+                "evvname": "Flosstradamus",
+                "evvenuename": "Encore Beach Club",
+                "evdate": "2017-07-07",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447973",
+                "evtable": "http://encorebeachclub.com/uvtixmap/20170707v701133708/flosstradamus",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447973"
+            },
+            {
+                "eventid": "171458",
+                "key": "ebcnight",
+                "venueid": "405660315",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1163/171458/118SC150/179892.jpg",
+                "evvname": "Cedric Gervais - Nightswim",
+                "evvenuename": "EBC at Night",
+                "evdate": "2017-07-07",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447943",
+                "evtable": "http://surrendernightclub.com/uvtixmap/20170707v405660315/cedric-gervais-nightswim",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447943"
+            },
+            {
+                "eventid": "156089",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/156089/118SC150/157068.jpg",
+                "evvname": "Diplo",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-07-08",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447818",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170708v11066556/diplo",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447818"
+            },
+            {
+                "eventid": "156201",
+                "key": "intrigue",
+                "venueid": "406544126",
+                "evpic": "https://venueeventartist.com/imateq/event/446/36868/156201/118SC150/177186.jpg",
+                "evvname": "Brillz",
+                "evvenuename": "Intrigue Nightclub",
+                "evdate": "2017-07-08",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447777",
+                "evtable": "http://intriguevegas.com/event-tickets/20170708156201/brillz",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447777"
+            },
+            {
+                "eventid": "156183",
+                "key": "ebc",
+                "venueid": "701133708",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1103/156183/118SC150/158742.jpg",
+                "evvname": "Alesso",
+                "evvenuename": "Encore Beach Club",
+                "evdate": "2017-07-08",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447975",
+                "evtable": "http://encorebeachclub.com/uvtixmap/20170708v701133708/alesso",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447975"
+            },
+            {
+                "eventid": "171467",
+                "key": "ebcnight",
+                "venueid": "405660315",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1163/171467/118SC150/179894.jpg",
+                "evvname": "RL Grime - Nightswim",
+                "evvenuename": "EBC at Night",
+                "evdate": "2017-07-08",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447946",
+                "evtable": "http://surrendernightclub.com/uvtixmap/20170708v405660315/rl-grime-nightswim",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447946"
+            },
+            {
+                "eventid": "156092",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/156092/118SC150/157069.jpg",
+                "evvname": "Alesso - Nightswim",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-07-09",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447820",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170709v11066556/alesso-nightswim",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447820"
+            },
+            {
+                "eventid": "156213",
+                "key": "ebc",
+                "venueid": "701133708",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1103/156213/118SC150/158074.jpg",
+                "evvname": "The Chainsmokers",
+                "evvenuename": "Encore Beach Club",
+                "evdate": "2017-07-09",
+                "evtick": "https://www.ticketfly.com/purchase/event/1418239",
+                "evtable": "http://encorebeachclub.com/uvtixmap/20170709v701133708/the-chainsmokers",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1418239"
+            },
+            {
+                "eventid": "156095",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/156095/118SC150/157070.jpg",
+                "evvname": "DJ Politik",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-07-10",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447920",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170710v11066556/dj-politik",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447920"
+            },
+            {
+                "eventid": "156301",
+                "key": "surrender",
+                "venueid": "701133710",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1111/156301/118SC150/178509.jpg",
+                "evvname": "MakJ",
+                "evvenuename": "Surrender Nightclub",
+                "evdate": "2017-07-12",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447947",
+                "evtable": "http://surrendernightclub.com/uvtixmap/20170712v701133710/makj",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447947"
+            },
+            {
+                "eventid": "156204",
+                "key": "intrigue",
+                "venueid": "406544126",
+                "evpic": "https://venueeventartist.com/imateq/event/446/36868/156204/118SC150/157084.jpg",
+                "evvname": "Marshmello",
+                "evvenuename": "Intrigue Nightclub",
+                "evdate": "2017-07-13",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447781",
+                "evtable": "http://intriguevegas.com/event-tickets/20170713156204/marshmello",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447781"
+            },
+            {
+                "eventid": "156098",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/156098/118SC150/157071.jpg",
+                "evvname": "The Chainsmokers",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-07-14",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447921",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170714v11066556/the-chainsmokers",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447921"
+            },
+            {
+                "eventid": "156210",
+                "key": "intrigue",
+                "venueid": "406544126",
+                "evpic": "https://venueeventartist.com/imateq/event/446/36868/156210/118SC150/177187.jpg",
+                "evvname": "Special Guest",
+                "evvenuename": "Intrigue Nightclub",
+                "evdate": "2017-07-14",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447791",
+                "evtable": "http://intriguevegas.com/event-tickets/20170714156210/special-guest",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447791"
+            },
+            {
+                "eventid": "156220",
+                "key": "ebc",
+                "venueid": "701133708",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1103/156220/118SC150/158075.jpg",
+                "evvname": "Dillon Francis",
+                "evvenuename": "Encore Beach Club",
+                "evdate": "2017-07-14",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447980",
+                "evtable": "http://encorebeachclub.com/uvtixmap/20170714v701133708/dillon-francis",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447980"
+            },
+            {
+                "eventid": "171476",
+                "key": "ebcnight",
+                "venueid": "405660315",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1163/171476/118SC150/178510.jpg",
+                "evvname": "Slander - Nightswim",
+                "evvenuename": "EBC at Night",
+                "evdate": "2017-07-14",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447949",
+                "evtable": "http://surrendernightclub.com/uvtixmap/20170714v405660315/slander-nightswim",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447949"
+            },
+            {
+                "eventid": "156101",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/156101/118SC150/157072.jpg",
+                "evvname": "Alesso",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-07-15",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447922",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170715v11066556/alesso",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447922"
+            },
+            {
+                "eventid": "156217",
+                "key": "intrigue",
+                "venueid": "406544126",
+                "evpic": "https://venueeventartist.com/imateq/event/446/36868/156217/118SC150/157086.jpg",
+                "evvname": "Chuckie",
+                "evvenuename": "Intrigue Nightclub",
+                "evdate": "2017-07-15",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447792",
+                "evtable": "http://intriguevegas.com/event-tickets/20170715156217/chuckie",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447792"
+            },
+            {
+                "eventid": "156227",
+                "key": "ebc",
+                "venueid": "701133708",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1103/156227/118SC150/158087.jpg",
+                "evvname": "Diplo",
+                "evvenuename": "Encore Beach Club",
+                "evdate": "2017-07-15",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447982",
+                "evtable": "http://encorebeachclub.com/uvtixmap/20170715v701133708/diplo",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447982"
+            },
+            {
+                "eventid": "171482",
+                "key": "ebcnight",
+                "venueid": "405660315",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1163/171482/118SC150/178511.jpg",
+                "evvname": "Marshmello - Nightswim",
+                "evvenuename": "EBC at Night",
+                "evdate": "2017-07-15",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447951",
+                "evtable": "http://surrendernightclub.com/uvtixmap/20170715v405660315/marshmello-nightswim",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447951"
+            },
+            {
+                "eventid": "156104",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/156104/118SC150/156106.jpg",
+                "evvname": "Dillon Francis - Nightswim",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-07-16",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447923",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170716v11066556/dillon-francis-nightswim",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447923"
+            },
+            {
+                "eventid": "156235",
+                "key": "ebc",
+                "venueid": "701133708",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1103/156235/118SC150/158743.jpg",
+                "evvname": "Alesso",
+                "evvenuename": "Encore Beach Club",
+                "evdate": "2017-07-16",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447983",
+                "evtable": "http://encorebeachclub.com/uvtixmap/20170716v701133708/alesso",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447983"
+            },
+            {
+                "eventid": "156107",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/156107/118SC150/173050.jpg",
+                "evvname": "Lost Kings",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-07-17",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447925",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170717v11066556/lost-kings",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447925"
+            },
+            {
+                "eventid": "156310",
+                "key": "surrender",
+                "venueid": "701133710",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1111/156310/118SC150/182790.jpg",
+                "evvname": "Flosstradamus",
+                "evvenuename": "Surrender Nightclub",
+                "evdate": "2017-07-19",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447952",
+                "evtable": "http://surrendernightclub.com/uvtixmap/20170719v701133710/flosstradamus",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447952"
+            },
+            {
+                "eventid": "156224",
+                "key": "intrigue",
+                "venueid": "406544126",
+                "evpic": "https://venueeventartist.com/imateq/event/446/36868/156224/118SC150/170002.jpg",
+                "evvname": "Brillz",
+                "evvenuename": "Intrigue Nightclub",
+                "evdate": "2017-07-20",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447794",
+                "evtable": "http://intriguevegas.com/event-tickets/20170720156224/brillz",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447794"
+            },
+            {
+                "eventid": "156165",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/156165/118SC150/157074.jpg",
+                "evvname": "The Chainsmokers",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-07-21",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447927",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170721v11066556/the-chainsmokers",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447927"
+            },
+            {
+                "eventid": "156229",
+                "key": "intrigue",
+                "venueid": "406544126",
+                "evpic": "https://venueeventartist.com/imateq/event/446/36868/156229/118SC150/179474.jpg",
+                "evvname": "Dillon Francis",
+                "evvenuename": "Intrigue Nightclub",
+                "evdate": "2017-07-21",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447796",
+                "evtable": "http://intriguevegas.com/event-tickets/20170721156229/dillon-francis",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447796"
+            },
+            {
+                "eventid": "156239",
+                "key": "ebc",
+                "venueid": "701133708",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1103/156239/118SC150/182791.jpg",
+                "evvname": "Flosstradamus",
+                "evvenuename": "Encore Beach Club",
+                "evdate": "2017-07-21",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447986",
+                "evtable": "http://encorebeachclub.com/uvtixmap/20170721v701133708/flosstradamus",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447986"
+            },
+            {
+                "eventid": "171494",
+                "key": "ebcnight",
+                "venueid": "405660315",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1163/171494/118SC150/171496.jpg",
+                "evvname": "The Stafford Brothers - Nightswim",
+                "evvenuename": "EBC at Night",
+                "evdate": "2017-07-21",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447954",
+                "evtable": "http://surrendernightclub.com/uvtixmap/20170721v405660315/the-stafford-brothers-nightswim",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447954"
+            },
+            {
+                "eventid": "156168",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/156168/118SC150/156170.jpg",
+                "evvname": "Major Lazer",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-07-22",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447928",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170722v11066556/major-lazer",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447928"
+            },
+            {
+                "eventid": "156233",
+                "key": "intrigue",
+                "venueid": "406544126",
+                "evpic": "https://venueeventartist.com/imateq/event/446/36868/156233/118SC150/180335.jpg",
+                "evvname": "Flosstradamus",
+                "evvenuename": "Intrigue Nightclub",
+                "evdate": "2017-07-22",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447797",
+                "evtable": "http://intriguevegas.com/event-tickets/20170722156233/flosstradamus",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447797"
+            },
+            {
+                "eventid": "156251",
+                "key": "ebc",
+                "venueid": "701133708",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1103/156251/118SC150/158091.jpg",
+                "evvname": "Diplo",
+                "evvenuename": "Encore Beach Club",
+                "evdate": "2017-07-22",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447987",
+                "evtable": "http://encorebeachclub.com/uvtixmap/20170722v701133708/diplo",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447987"
+            },
+            {
+                "eventid": "171500",
+                "key": "ebcnight",
+                "venueid": "405660315",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1163/171500/118SC150/182792.jpg",
+                "evvname": "Chuckie - Nightswim",
+                "evvenuename": "EBC at Night",
+                "evdate": "2017-07-22",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447955",
+                "evtable": "http://surrendernightclub.com/uvtixmap/20170722v405660315/chuckie-nightswim",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447955"
+            },
+            {
+                "eventid": "156173",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/156173/118SC150/167650.jpg",
+                "evvname": "The Chainsmokers - Nightswim",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-07-23",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447929",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170723v11066556/the-chainsmokers-nightswim",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447929"
+            },
+            {
+                "eventid": "156266",
+                "key": "ebc",
+                "venueid": "701133708",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1103/156266/118SC150/182793.jpg",
+                "evvname": "Dillon Francis",
+                "evvenuename": "Encore Beach Club",
+                "evdate": "2017-07-23",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447988",
+                "evtable": "http://encorebeachclub.com/uvtixmap/20170723v701133708/dillon-francis",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447988"
+            },
+            {
+                "eventid": "156177",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/156177/118SC150/164213.jpg",
+                "evvname": "Virgil Abloh",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-07-24",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447930",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170724v11066556/virgil-abloh",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447930"
+            },
+            {
+                "eventid": "156319",
+                "key": "surrender",
+                "venueid": "701133710",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1111/156319/118SC150/182998.jpg",
+                "evvname": "Diplo",
+                "evvenuename": "Surrender Nightclub",
+                "evdate": "2017-07-26",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447957",
+                "evtable": "http://surrendernightclub.com/uvtixmap/20170726v701133710/diplo",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447957"
+            },
+            {
+                "eventid": "156242",
+                "key": "intrigue",
+                "venueid": "406544126",
+                "evpic": "https://venueeventartist.com/imateq/event/446/36868/156242/118SC150/157090.jpg",
+                "evvname": "Marshmello",
+                "evvenuename": "Intrigue Nightclub",
+                "evdate": "2017-07-27",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447798",
+                "evtable": "http://intriguevegas.com/event-tickets/20170727156242/marshmello",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447798"
+            },
+            {
+                "eventid": "156180",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/156180/118SC150/157076.jpg",
+                "evvname": "The Chainsmokers",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-07-28",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447931",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170728v11066556/the-chainsmokers",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447931"
+            },
+            {
+                "eventid": "156262",
+                "key": "intrigue",
+                "venueid": "406544126",
+                "evpic": "https://venueeventartist.com/imateq/event/446/36868/156262/118SC150/157091.jpg",
+                "evvname": "Slander",
+                "evvenuename": "Intrigue Nightclub",
+                "evdate": "2017-07-28",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447799",
+                "evtable": "http://intriguevegas.com/event-tickets/20170728156262/slander",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447799"
+            },
+            {
+                "eventid": "156276",
+                "key": "ebc",
+                "venueid": "701133708",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1103/156276/118SC150/158093.jpg",
+                "evvname": "Marshmello",
+                "evvenuename": "Encore Beach Club",
+                "evdate": "2017-07-28",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447990",
+                "evtable": "http://encorebeachclub.com/uvtixmap/20170728v701133708/marshmello",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447990"
+            },
+            {
+                "eventid": "171503",
+                "key": "ebcnight",
+                "venueid": "405660315",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1163/171503/118SC150/179898.jpg",
+                "evvname": "Brillz - Nightswim",
+                "evvenuename": "EBC at Night",
+                "evdate": "2017-07-28",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447959",
+                "evtable": "http://surrendernightclub.com/uvtixmap/20170728v405660315/brillz-nightswim",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447959"
+            },
+            {
+                "eventid": "156185",
+                "key": "xs",
+                "venueid": "11066556",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1115/156185/118SC150/178353.jpg",
+                "evvname": "Dillon Francis",
+                "evvenuename": "XS Nightclub",
+                "evdate": "2017-07-29",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447933",
+                "evtable": "http://xslasvegas.com/uvtixmap/20170729v11066556/dillon-francis",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447933"
+            },
+            {
+                "eventid": "156270",
+                "key": "intrigue",
+                "venueid": "406544126",
+                "evpic": "https://venueeventartist.com/imateq/event/446/36868/156270/118SC150/180035.jpg",
+                "evvname": "Flosstradamus",
+                "evvenuename": "Intrigue Nightclub",
+                "evdate": "2017-07-29",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447802",
+                "evtable": "http://intriguevegas.com/event-tickets/20170729156270/flosstradamus",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447802"
+            },
+            {
+                "eventid": "156288",
+                "key": "ebc",
+                "venueid": "701133708",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1103/156288/118SC150/158094.jpg",
+                "evvname": "The Chainsmokers",
+                "evvenuename": "Encore Beach Club",
+                "evdate": "2017-07-29",
+                "evtick": "https://www.ticketfly.com/purchase/event/1418242",
+                "evtable": "http://encorebeachclub.com/uvtixmap/20170729v701133708/the-chainsmokers",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1418242"
+            },
+            {
+                "eventid": "171506",
+                "key": "ebcnight",
+                "venueid": "405660315",
+                "evpic": "https://venueeventartist.com/imateq/event/446/1163/171506/118SC150/179899.jpg",
+                "evvname": "Getter - Nightswim",
+                "evvenuename": "EBC at Night",
+                "evdate": "2017-07-29",
+                "evtick": "https://www.ticketfly.com/purchase/event/1447960",
+                "evtable": "http://surrendernightclub.com/uvtixmap/20170729v405660315/getter-nightswim",
+                "eventexternalticketsurl": "https://www.ticketfly.com/purchase/event/1447960"
+            }
+        ]
     },
     "Nightlife": {
         "title": "NIGHTLIFE",
@@ -547,7 +1439,7 @@
         "category": "AMENITIES",
         "name": "SHOPS",
         "timeTable": "WYNN ESPLANADE\nAlexander McQueen\nBrioni\nCartier\nChanel\nChloé\nChopard\nDior\nGivenchy\nGraff\nLouis Vuitton\nMoncler\nPrada\nRolex\nSalvatore Ferragamo\nTiny Treasures\nWynn & Company Watches\nWynn Collection",
-        "type": "item"
+        "type": "subcategory"
     },
     "UnderAmenities-1": {
         "images": "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Spas/2_704_Encore_Spa_Atrium_cropped_Russell_MacMasters.jpg?h=540&la=en&w=1001&vs=1&d=20141205T181653",
@@ -560,24 +1452,9 @@
             "/Amenities/Spas/Reservations",
             "/Amenities/Spas/Reservations"
         ],
-        "timeTable": "",
-        "type": "item"
+        "type": "subcategory"
     },
-    "UnderAmenities-2": {
-        "images": "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/902_Claude_Baruk_Salon_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20150730T170735",
-        "title": "the claude baruk Salons at wynn and encore",
-        "description": "From head-to-toe, the Claude Baruk Salons offer the expert treatments to help you look your very best. Managing director Claude Baruk is world-renowned for his technique and innovation, and brings his sought-after skills from St. Tropez to Wynn Las Vegas and Encore. The talented team of stylists at the salons combine the latest trends with classic and holistic approaches to health and beauty.",
-        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/ClaudeBarukSalon-logo.png?h=25&w=152&la=en&vs=1&d=20141205T181644",
-        "category": "AMENITIES",
-        "name": "SALONS",
-        "openTableLink": [
-            "/Amenities/Salons/Reservations",
-            "/Amenities/Salons/Reservations"
-        ],
-        "timeTable": "Open daily from 9 a.m. to 7 p.m.\n\nWYNN SALON\nENCORE SALON\nSALON MENU",
-        "type": "item"
-    },
-    "UnderAmenities-3": {
+    "UnderAmenitiesTwo-0": {
         "images": [
             "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Fitness%20Centers/968_Wynn_Fitness_Center_Bikes_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20160126T161213",
             "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Fitness%20Centers/969_Wynn_Fitness_Center_Weights_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20160126T161259"
@@ -585,11 +1462,12 @@
         "title": "the Fitness Centers at wynn and encore",
         "description": "Two fitness centers, at Wynn and Encore, offer Cybex treadmills, elliptical trainers, recumbent and upright bikes as well as strength equipment. Take advantage of daily fitness classes and our team of nationally-certified personal trainers who are available for private instruction.",
         "category": "AMENITIES",
+        "subcategory": "FITNESS CENTERS",
         "name": "FITNESS CENTERS",
         "timeTable": "Open daily from 5:30 a.m. to 8 p.m.\n\nWYNN CLASS SCHEDULE\nENCORE CLASS SCHEDULE",
         "type": "item"
     },
-    "UnderAmenities-4": {
+    "UnderAmenitiesTwo-1": {
         "images": [
             "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Pools/4_722_Encore_Resort_Pool_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20141205T181642",
             "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Pools/906_Wynn_Tower_Suites_Cabana_Barbara_Kraft_DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20170523T150108",
@@ -599,6 +1477,7 @@
         ],
         "description": "Both Wynn and Encore offer beautiful, temperature-controlled pools and Jacuzzi spas surrounded by immaculate gardens. Reserve a private cabana at the Wynn, Encore or Tower Suites pools complete with mini-fridge, plasma TV, plush chairs and sofas. The secluded, adults-only European pools are an ideal retreat and allow for topless sunbathing.",
         "category": "AMENITIES",
+        "subcategory": "POOLS",
         "name": "POOLS",
         "openTableLink": [
             "/Amenities/Pools/Reservations",
@@ -607,7 +1486,7 @@
         "timeTable": "Reserve your place in the sun in a well-appointed, luxury cabana at any of the pools throughout the resort.",
         "type": "item"
     },
-    "UnderAmenities-5": {
+    "UnderAmenitiesTwo-2": {
         "images": [
             "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Golf/Wynn%20Golf%20Course/1_724_Wynn_Golf_18th_Hole_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20141205T181640",
             "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Golf/Wynn%20Golf%20Course/2_726_Wynn_Golf_Hole_6_crop_John-Jeannine_Henebry.jpg?h=540&la=en&w=1001&vs=1&d=20141205T181640",
@@ -619,22 +1498,59 @@
         "description": "From its rolling greens to its white-sand bunkers and rushing streams, you may forget you're in Las Vegas while at the Wynn Golf Club. The 18-hole, par-70 course—designed by Tom Fazio and Steve Wynn—was conceived with the rolling hills of South Carolina or Georgia in mind. As a part of being the only golf course attached to a resort on the Las Vegas strip, our team is well prepared to get you from room-to-tee-box without ever leaving the resort. If you can't bring your own equipment complimentary clubs by Callaway and shoes by Foot Joy are always provided and our professional caddies are available to help you master the course. \nStarting reservations vary seasonally; please call our golf reservation specialists at (702) 770-4653 for available tee times.",
         "logo": "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Golf/golfClub.png?h=71&w=115&la=en&vs=1&d=20141216T104843",
         "category": "AMENITIES",
+        "subcategory": "GOLF",
         "name": "GOLF",
         "timeTableAlt": "TOM FAZIO VIDEO",
         "timeTable": "Reservations are available up to 90 days in advance for resort guests. Non-resort guests may make reservations up to 30 days in advance. \nTOM FAZIO VIDEO",
         "type": "item"
     },
-    "UnderAmenities-6": {
+    "UnderAmenitiesTwo-3": {
         "images": "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Concierge/915_Wynn_Golf_Exterior_Hole-11_Barbara_Kraft_DESKTOP.jpg?h=540&la=en&w=1001&vs=1&d=20141205T181638",
         "title": "Concierge Services",
         "description": "The concierge at Wynn and Encore are available to help you plan the perfect visit before you arrive. Experience a stunning show or indulge in a spa day for the ideal escape. From choice tables at our restaurants to golf reservations, our concierge staff is ready to take care of every detail. Allow our team to assist you in securing event tickets at one of our nightclubs and resort guests will receive VIP front-of-the-line passes.\nTo contact the concierge please call (702) 770-7070 or submit a reservation request. We will respond to requests within 24 hours.",
         "category": "AMENITIES",
+        "subcategory": "CONCIERGE",
         "name": "CONCIERGE",
         "openTableLink": [
             "http://wynnlasvegas.com/Amenities/Concierge/Reservations",
             "http://wynnlasvegas.com/Amenities/Concierge/Reservations"
         ],
         "timeTable": "Resort guests can request assistance with dinner reservations, show tickets, spa and salon appointments, transportation and more.",
+        "type": "item"
+    },
+    "UnderCasino-0": {
+        "images": [
+            "http://static.wynnlasvegas.com/~/media/WLV/Casino/EPC/825_Encore_Players_Club_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20160622T143723",
+            "http://static.wynnlasvegas.com/~/media/WLV/Casino/EPC/826_Encore_Players_Lounge_Reverse_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20160712T175721"
+        ],
+        "title": "Encore Players Lounge",
+        "description": "The excitement of blackjack, roulette and craps mingles with a Las Vegas nightlife vibe like only Encore can provide in this unique luxury lounge. Situated across from Surrender, Encore Players Lounge offers pool, interactive tables and plenty of space to sit and to watch the game on one of the HDTVs.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Casino/EPC/Encore_Players_Lounge_Logo_200x30.png?&la=en&vs=1&d=20160715T153433",
+        "category": "CASINO",
+        "name": "ENCORE PLAYERS LOUNGE",
+        "timeTable": "Open nightly from 8 p.m. to 4 a.m.\n\nEncore Players Lounge regular operations will be suspended through Tuesday, July 18 in order to host the Wynn Summer Classic Poker Tournament.\nDETAILS",
+        "type": "item"
+    },
+    "UnderCasino-1": {
+        "images": "http://static.wynnlasvegas.com/~/media/WLV/Casino/Race%20and%20Sports%20Odds/815_Sports_Book_Horses.jpg?h=540&la=en&w=1001&vs=1&d=20170330T103314",
+        "title": "Wynn Race & Sports Book: NEW TEMPORARY ENCORE LOCATION",
+        "description": "Now through August 1, the Wynn Race & Sports Book will be operating from a temporary location at Encore, adjacent to Encore Players Lounge and Surrender. In the Encore location, you can enjoy all of the services and excitement that our guests have come to expect from Wynn’s renowned race and sports book, including placing wagers on current and future sporting and racing events. During this time, the Wynn location will be undergoing an exciting new remodel that will feature a sophisticated new design and updated technologies. \n\nENTERTAINMENT ODDS\n\nRace & Sports Director Johnny Avello occasionally releases odds on a number of awards shows, reality television programs and other events that spark national debate and discussion. While these odds are purely meant for fun and conversation, there are nevertheless highly anticipated. \n \nDANCING WITH THE STARS\n\n$200,000 GUARANTEED RACE HANDICAPPING CHALLENGE\n\nFriday, August 4 and Saturday, August 5, 2017\n \nRULES & ENTRY FORM",
+        "category": "CASINO",
+        "name": "RACE & SPORTS BOOK",
+        "timeTable": "Place a horse racing or sports wager from anywhere in Nevada with the Wynn Mobile Sports app.\n\nDETAILS",
+        "type": "item"
+    },
+    "UnderCasino-2": {
+        "images": "http://static.wynnlasvegas.com/~/media/WLV/Casino/830_Wynn_Baccarat_No_Drink_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170209T121228",
+        "title": "TABLE GAMES",
+        "description": "At Wynn and Encore, not only have the surroundings been created with your comfort and enjoyment in mind, but the experienced dealers and staff that you’ll meet on the casino floor are the premier reason that our resorts are renowned for consistently offering a singular experience. Enjoy the excitement of blackjack and craps poolside at the adults-only European pool at Wynn, or play while you soak up the scene at XS, Surrender or Encore Beach Club. Our resorts offer a wide range of games to choose from, with new options being added all the time.",
+        "category": "CASINO",
+        "name": "TABLE GAMES",
+        "openTableLink": [
+            "https://reservations.wynnlasvegas.com/profile?_ga=1.140141238.468362675.1418065491",
+            "https://reservations.wynnlasvegas.com/profile?_ga=1.140141238.468362675.1418065491"
+        ],
+        "timeTable": "Red Card membership allows our casino players to easily access exclusive privileges.\n\n\n    Enjoy special offers and promotions.\n     Keep track of your casino benefits and history.\n     Easily update your member information and preferences.",
         "type": "item"
     },
     "UnderDining-0": {
@@ -662,16 +1578,20 @@
     },
     "UnderEntertaiment-0": {
         "images": [
-            "http://static.wynnlasvegas.com/~/media/WLV/Entertainment/John%20Fogerty/273_john_fogerty_fortunate_son_in_concert_2017.jpg?h=540&la=en&w=1001&vs=1&d=20170518T163216",
+            "http://static.wynnlasvegas.com/~/media/WLV/Entertainment/John%20Fogerty/289_John_Fogerty_CCR.jpg?h=540&la=en&w=1001&vs=1&d=20170615T130749",
             "http://static.wynnlasvegas.com/~/media/WLV/Entertainment/John%20Fogerty/276_JohnFogerty_Stage.jpg?h=540&la=en&w=1001&vs=1&d=20170330T092058"
         ],
         "title": "JOHN FOGERTY PERFORMS CREEDENCE CLEARWATER REVIVAL HITS",
-        "description": "Celebrating American rock with what will inevitably prove to be an unforgettable engagement, John Fogerty performs his songs from Creedence Clearwater Revival in the intimate Encore Theater. The music legend and member of the Rock and Roll Hall of Fame will return to Wynn from September 20 through October 7, and again from January 10 through 20. With a remarkable career spanning more than 50 years, Fogerty will take fans on an electrifying journey through his CCR classics and the solo hits that solidified his status as one of the most influential musicians in history and whose music became the soundtrack of a generation.\n\nTickets will go on sale to the public on Friday, June 16 at 10 a.m. PT.",
+        "description": "img{\n    padding-top: 2px;\n    }\n    .section-image-vert img {\n    margin-bottom: 0px!important;\n    }\n    @media (max-width: 752px) {\n    .wlv-img-vert {\n    padding: 0px!important;\n    margin-bottom: 20px;\n    }\n    .wynn-mobile-buttons {\n    display: block!important;\n    margin: 0 auto 20px!important;\n    }\n    .section-right-cta {\n    margin-top: 10px !important;\n    }\n    }\n    @media (max-width: 992px){\n    .wlv-img-vert {\n    padding: 0px!important;\n    margin-bottom: 20px;\n    }\n    }\n    .wynn-mobile-buttons {\n    border: solid 1px;\n    margin: 0 10px 20px auto;\n    text-transform: uppercase;\n    width: 160px;\n    padding: 20px;\n    font-size: 12px;\n    line-height: 15px;\n    display: inline;\n    color: #fff;\n    text-align: center;\n    font-family: 'AvenirLTStd35Light';\n    box-sizing: border-box;\n    }\n\nCelebrating American rock with what will inevitably prove to be an unforgettable engagement, John Fogerty performs his songs from Creedence Clearwater Revival in the intimate Encore Theater. The music legend and member of the Rock and Roll Hall of Fame will return to Wynn from September 20 through October 7, and again from January 10 through 20. With a remarkable career spanning more than 50 years, Fogerty will take fans on an electrifying journey through his CCR classics and the solo hits that solidified his status as one of the most influential musicians in history and whose music became the soundtrack of a generation.\n\nBuy tickets online or call show reservations at (702) 770-9966.\nJOHN FOGERTY PACKAGES\n\nEnjoy a dinner and show pairing at one of the exceptional restaurants at Wynn and Encore, or become an official member of the John Fogerty Swamp and turn your evening into the ultimate experience with our exclusive show packages.\n\n\nPACKAGE DETAILS",
         "logo": "http://static.wynnlasvegas.com/~/media/WLV/Entertainment/John%20Fogerty/john_fogerty_2017_logo.png?la=en&vs=1&d=20170103T142510",
         "category": "ENTERTAINMENT",
         "name": "JOHN FOGERTY",
         "timeTableAlt": "Performances start at 8 p.m. \n\n2017\n\nWednesday, September 20\nFriday, September 22\nSaturday, September 23\nWednesday, September 27\nFriday, September 29\nSaturday, September 30\nWednesday, October 4\nFriday, October 6\nSaturday, October 7\n2018\n\nWednesday, January 10\nFriday, January 12\nSaturday, January 13\nWednesday, January 17\nFriday, January 19\nSaturday, January 20",
         "timeTable": "Performances start at 8 p.m. \n\n2017\n\nWednesday, September 20\nFriday, September 22\nSaturday, September 23\nWednesday, September 27\nFriday, September 29\nSaturday, September 30\nWednesday, October 4\nFriday, October 6\nSaturday, October 7\n2018\n\nWednesday, January 10\nFriday, January 12\nSaturday, January 13\nWednesday, January 17\nFriday, January 19\nSaturday, January 20",
+        "openTableLink": [
+            "https://boxoffice.wynnlasvegas.com/johnfogerty.html",
+            "https://boxoffice.wynnlasvegas.com/johnfogerty.html"
+        ],
         "type": "item"
     },
     "UnderEntertaiment-1": {
@@ -683,6 +1603,10 @@
         "name": "MEL BROOKS",
         "timeTableAlt": "Performances start at 7:30 p.m.",
         "timeTable": "Performances start at 7:30 p.m. \nFriday, June 30\n\nSaturday, July 1",
+        "openTableLink": [
+            "https://boxoffice.wynnlasvegas.com/melbrooks.html",
+            "https://boxoffice.wynnlasvegas.com/melbrooks.html"
+        ],
         "type": "item"
     },
     "UnderEntertaiment-2": {
@@ -701,6 +1625,12 @@
         "category": "ENTERTAINMENT",
         "name": "LE RÊVE – THE DREAM",
         "timeTable": "Performances run Friday through Tuesday at 7 p.m. and 9:30 p.m. There are no performances on Wednesday and Thursday.\n\nLe Rêve – The Dream will be dark Wednesday, June 21 through Thursday, July 6.\nVIDEO",
+        "openTableLink": [
+            "https://boxoffice.wynnlasvegas.com/lereve.html",
+            "https://boxoffice.wynnlasvegas.com/mobile/lereve-mobile.htm",
+            "https://boxoffice.wynnlasvegas.com/promotions/advanced/?_ga=1.241948683.887%E2%80%A6",
+            "https://boxoffice.wynnlasvegas.com/promotions/advanced/?_ga=1.241948683.887%E2%80%A6"
+        ],
         "type": "item"
     },
     "UnderEntertaiment-3": {
@@ -712,6 +1642,10 @@
         "name": "EMMANUEL",
         "timeTableAlt": "Performances start at 9 p.m.",
         "timeTable": "Performances start at 9 p.m. \nFriday, September 15\n\nSaturday, September 16",
+        "openTableLink": [
+            "https://boxoffice.wynnlasvegas.com/emmanuel.html",
+            "https://boxoffice.wynnlasvegas.com/emmanuel.html"
+        ],
         "type": "item"
     },
     "UnderEntertaiment-4": {
@@ -726,6 +1660,203 @@
         "name": "LAKE OF DREAMS",
         "timeTable": "Shows run nightly, every half hour beginning at dusk until 11:30 p.m.",
         "type": "item"
+    },
+    "UnderExperience-0": {
+        "images": "http://static.wynnlasvegas.com/~/media/WLV/Experiences/Master%20Class/1007_WMC_Horizontal.jpg?h=540&la=en&w=1001&vs=1&d=20170615T130540",
+        "title": "WYNN MASTER CLASS",
+        "description": "You’re invited behind the scenes for a series of workshops led by master chefs, sommeliers, bakers and artisans. Bake your own baguette alongside a master bread artisan, perfect the art of sushi making, learn tips from gaming experts and more; these are one-of-a-kind experiences that are uniquely for you, and exclusively at Wynn.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Experiences/Master%20Class/WMC_logo_white_372x100.png?h=46&w=130&la=en&vs=1&d=20170315T120747",
+        "category": "EXPERIENCES",
+        "name": "MASTER CLASSES",
+        "timeTable": "To register for your master class, call (702) 770-7070.\n\nWynn Master Classes may be custom designed for your large group or private event. For group inquiries, call (702) 770-2251.",
+        "experienceItem": {
+            "image": [
+                "http://static.wynnlasvegas.com/~/media/WLV/Experiences/834_Ryan_Beauregard_EJ.jpg?h=215&la=en&w=399&vs=1&d=20170615T121626",
+                "http://static.wynnlasvegas.com/~/media/WLV/Experiences/1001_Johann_Willar_EJ.jpg?h=215&la=en&w=399&vs=1&d=20170615T151408",
+                "http://static.wynnlasvegas.com/~/media/WLV/Experiences/491_Mark_Thomas_EJ.jpg?h=215&la=en&w=399&vs=1&d=20170615T124537",
+                "http://static.wynnlasvegas.com/~/media/WLV/Experiences/1008_WMC_Brewmasters.jpg?h=215&la=en&w=399&vs=1&d=20170616T130052",
+                "http://static.wynnlasvegas.com/~/media/WLV/Experiences/835_Johnny_Avello.jpg?h=215&la=en&w=399&vs=1&d=20170615T124903",
+                "http://static.wynnlasvegas.com/~/media/WLV/Experiences/1003_Kitt_Xaiyasiha_BH.jpg?h=215&la=en&w=399&vs=1&d=20170615T125303",
+                "http://static.wynnlasvegas.com/~/media/WLV/Experiences/1004_Flora_Aghababyan.jpg?h=215&la=en&w=399&vs=1&d=20170615T125459",
+                "http://static.wynnlasvegas.com/~/media/WLV/Experiences/1005_Tal_Ronnen_MP.jpg?h=215&la=en&w=399&vs=1&d=20170615T125415",
+                "http://static.wynnlasvegas.com/~/media/WLV/Experiences/1006_Sandy_Shi_EJ.jpg?h=215&la=en&w=399&vs=1&d=20170615T130013"
+            ],
+            "name": [
+                "Perfecting Your Poker Face",
+                "Mastering Bread Baking",
+                "Sommelier For A Day",
+                "Brewmaster Class",
+                "Oddsmaker For A Day",
+                "Sushi Master Class",
+                "Master Cake Decorating",
+                "A Taste Of Crossroads",
+                "DUMPLING MASTER CLASS"
+            ],
+            "intro": [
+                [
+                    "July 20 at 2 p.m.",
+                    "Learn secrets to raise your game and outplay your opponents with Director of Poker Operations Ryan Beauregard."
+                ],
+                [
+                    "July 27 at 1 p.m.",
+                    "Join master artisan baker Johann Willar as he shares his favorite recipes, techniques and tips for baking at home."
+                ],
+                [
+                    "August 3 at 3 p.m.",
+                    "Collaborate with Director of Wine Mark Thomas to create Wynn’s newest offering of globally-inspired wines."
+                ],
+                [
+                    "August 10 at 3 p.m.",
+                    "Explore the art of brewing beer with executives from Southern Glazer’s Wine & Spirits."
+                ],
+                [
+                    "August 18 at 1 p.m.",
+                    "Attend a casual roundtable lunch with oddsmaker Johnny Avello at the newly renovated Wynn Race & Sports Book."
+                ],
+                [
+                    "September 15 at 12 p.m.",
+                    "Perfect your technique for achieving restaurant-caliber sushi alongside chefs Kitt Xaiyasiha and Devin Hashimoto."
+                ],
+                [
+                    "September 28 at 2 p.m.",
+                    "Flora Aghababyan opens her cake studio to share her secrets for making showstopping cakes."
+                ],
+                [
+                    "October 5 at 12 p.m.",
+                    "In this master class on conscious cooking, Celebrity Chef Tal Ronnen shares his philosophy for a plant-based kitchen."
+                ],
+                [
+                    "October 19 at 12 p.m.",
+                    "Master dim sum chef Sandy Shi and Red 8 chef Chen Wei Chan divulge the secrets to making perfect Chinese dumplings."
+                ]
+            ],
+            "description": [
+                "If you are a beginner looking to raise your game, you’ll want to go 'all in' for this exciting introduction to the art of playing poker, led by Wynn’s director of poker operations, Ryan Beauregard. In addition to helping you perfect your poker face, Beauregard will cover the rules of the game, how to feel at ease sitting down at the table, and how to master the strategies of outplaying your opponents. Don’t miss out on your chance to ‘river’ your competition and think like a poker pro. Participants must be 21 or older.\n \nWynn Poker Room at Encore. $125 per person, including tax and gratuities. Call (702) 770-7070 to register.",
+                "We are firing up the ovens for our first-ever master class in bread baking, led by master artisan baker Johann Willar, who will share his favorite recipes and techniques for achieving professional results when baking at home. Follow along as  Willar crafts a perfect crusty baguette and a soft Pullman loaf, plus learn insider secrets to baking SW Steakhouse’s beloved bacon bread rolls. This exclusive workshop includes a casual charcuterie lunch.\n\nBread Bakery at Wynn. $150 per person, including tax and gratuities. Call (702) 770-7070 to register.",
+                "How does a sommelier go about choosing wines and compiling a truly exceptional list? Wynn’s executive director of wine, Mark Thomas, invites you to collaborate with him as he showcases a new offering of globally-inspired wines, debuting this summer. The spirited discussion and tasting will focus on diverse growing regions, wine styles and pairing versatility. Attendees will blind taste a number of wines that Thomas has selected as finalists to include at Wynn, and help choose two of the actual wines that make the list. Participants must be 21 or older.\n\nLakeside at Wynn. $125 per person, including tax and gratuities. Call (702) 770-7070 to register.",
+                "Good times are on tap with this introductory class for the novice brewer. Renowned beer authorities of Southern Glazer’s Wine & Spirits Clyde Burney and Sam Merritt will lead this lively workshop focusing on the ingredients and processes of making beer. Burney and Merritt will guide you through the steps of brewing beer at home while discussing the intricate fermentation process and tricks for achieving professional craft-worthy results. Participants must be 21 or older.\n\nRace & Sports Book at Wynn. $125 per person, including tax and gratuities. Call (702) 770-7070 to register.",
+                "Welcome to the art of setting odds. For the first time ever, Vegas’ own wizard of odds, Johnny Avello, invites you to get an insider's view of what it's like to be an oddsmaker for Wynn Las Vegas. Join Avello for a casual roundtable lunch at the newly renovated Wynn Race & Sports Book as he provides an overview of running a complex race and sports book operation, and how he sets odds for everything from the big game to the Academy Awards. Participants must be 21 or older.\n\nRace & Sports Book at Wynn. $125 per person, including tax and gratuities. Call (702) 770-7070 to register.",
+                "In this interactive class, Mizumi's master sushi chef Kitt Xaiyasiha will share technical expertise for making nigiri, temaki and maki rolls. Joined by Mizumi's executive chef Devin Hashimoto, attendees will learn tips on the best ingredients and methods for achieving restaurant-caliber sushi rolls at home. Xaiyasiha will highlight key elements of Japanese cooking, emphasizing the balance and harmony of flavor, color and texture. The demonstration will also cover how the chefs craft Mizumi's elaborate sushi platters. Participants will enjoy a casual lunch featuring their creations following the class.\n\nMizumi at Wynn. $150 per person, including tax and gratuities. Call (702) 770-7070 to register.",
+                "Flora Aghababyan is like a fairy godmother who can make any wish come true in the form of an extravagant confection. She’s designed showpiece cakes for the likes of Jennifer Lopez, Beyonce and Bette Midler, and earned the top prize on Food Network Challenge. Join this master cake artist as she opens the doors to her studio to share her methods for making showstopping cakes. Attendees will learn the basics, including fondant, piping, and working with modeling chocolate and sugar décor, plus Aghababyan's secrets to creating ornate cakes in your own kitchen.\n\nPastry Shop at Wynn. $150 per person, including tax and gratuities. Call (702) 770-7070 to register.",
+                "Celebrity chef Tal Ronnen’s cooking is sophisticated, satisfying—and 100% vegan. During this session on conscious cooking, Ronnen will demonstrate recipes from his cookbook, Crossroads, and attendees will each receive a copy. Along with a casual lunch, Ronnen will share techniques to creating flavorful plant-based dishes. Lakeside’s chef de cuisine Paul Zlatos, former personal chef to Oprah Winfrey, will also offer his insights to creating meatless cuisine.\n \nLakeside at Wynn. $150 per person, including tax and gratuities. Call (702) 770-7070 to register.",
+                "Master dim sum chef Sandy Shi joins chef Chen Wei Chan of Red 8 for an encore of their popular dim sum workshop. From wontons and wrappers to fillings and dipping sauces, this interactive demonstration will include professional tips for making perfect Chinese dumplings and precision methods for pan frying them to crispy perfection. After the class, participants will enjoy a casual dim sum lunch that includes their creations.\n \nAndrea’s at Encore. $125 per person, including tax and gratuities. Call (702) 770-7070 to register."
+            ]
+        },
+        "type": "subcategory"
+    },
+    "UnderExperience-1": {
+        "images": "http://static.wynnlasvegas.com/~/media/WLV/Experiences/Dining%20Experiences/351_Mizumi_Pagoda_Table_Twilight_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170504T144703",
+        "title": "DINING EXPERIENCES",
+        "description": "Our award-winning chefs at Wynn and Encore have curated a variety of culinary experiences, each tailored to a cuisine steeped in regional flavors and heritage. These are events that transcend food—they tell stories and create memories. Take part in one of these experiences to transform dining into a getaway from the expected.",
+        "category": "EXPERIENCES",
+        "name": "DINING EXPERIENCES",
+        "timeTable": "Create the perfect evening with a dinner and show pairing that combines a specially-created menu with a ticket to experience timeless icon Diana Ross, legendary funny man Mel Brooks or the award-winning aquatic spectacular Le Rêve – The Dream.\nMENUS & DETAILS",
+        "experienceItem": {
+            "image": [
+                "http://static.wynnlasvegas.com/~/media/WLV/Experiences/Dining%20Experiences/1002_Terrace_Lounge_Tea_Service_Jeff_Green.jpg?h=215&la=en&w=399&vs=1&d=20170607T155221",
+                "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Allegro/497_Allegro_Exterior_Barbara_Kraft.jpg?h=215&la=en&w=399&vs=1&d=20170523T161608",
+                "http://static.wynnlasvegas.com/~/media/WLV/Dining/Casual%20Dining/Jardin/466_Jardin_Exterior_Barbara_Kraft.jpg?h=215&la=en&w=399&vs=1&d=20170519T131414",
+                "http://static.wynnlasvegas.com/~/media/WLV/Dining/Fine%20Dining/Bartolotta/396_Costa_Cabanas_Twilight_Barbara_Kraft.jpg?h=215&la=en&w=399&vs=1&d=20170421T110210",
+                "http://static.wynnlasvegas.com/~/media/WLV/Experiences/Dining%20Experiences/359_Country_Club_Brunch_Barbara%20Kraft.jpg?h=215&la=en&w=399&vs=1&d=20170517T140521",
+                "http://static.wynnlasvegas.com/~/media/WLV/Experiences/374_Bartolotta_Interior_Barbara_Kraft.JPG?h=215&la=en&w=399&vs=1&d=20170504T144037",
+                "http://static.wynnlasvegas.com/~/media/WLV/Experiences/344_Lakeside_Bar_Barbara_Kraft.jpg?h=215&la=en&w=399&vs=1&d=20170504T144557"
+            ],
+            "name": [
+                "Afternoon Tea",
+                "Restaurant Week At Allegro",
+                "Restaurant Week At Jardin",
+                "A Night At The James Beard House",
+                "Jazz Brunch",
+                "Aperitivo",
+                "Poke And Oyster Happy Hour"
+            ],
+            "intro": [
+                "Enjoy afternoon tea and an assortment of patisserie sweets served daily at Terrace Lounge.",
+                [
+                    "June 19 through 30",
+                    "Enjoy world-class cuisine while giving back to the community during Las Vegas Restaurant Week at Allegro."
+                ],
+                [
+                    "June 19 through 30",
+                    "Savor a specialty menu while supporting a worthwhile cause during Las Vegas Restaurant Week at Jardin."
+                ],
+                "Experience the menu chef Mark LoRusso presented at the James Beard House.",
+                "Live Dixieland jazz adds a unique flavor to The Country Club’s bountiful Sunday spread.",
+                "The bar at Costa di Mare offers sharable plates and classic Italian cocktails.",
+                "Hawaiian-inspired small plates, oysters and craft cocktails at Lakeside."
+            ],
+            "description": [
+                "Delight in elegant afternoon tea served daily at Terrace Lounge from 12 to 4 p.m. Located just steps beyond Wynn’s main entrance and registration desk, Terrace Lounge is a bright space that provides excellent views of the lush Wynn Atrium and outdoor seating overlooking the Lake of Dreams. Relax with your choice of fine loose-leaf teas including herbal blends, green leaves, white leaves, blooming and black teas. Tea service also includes an assortment of tea sandwiches, scones and patisserie sweets.",
+                "Las Vegas Restaurant Week offers the unique opportunity to enjoy world-class cuisine while giving back to our community. From Monday, June 19 through Friday, June 30, at Allegro, enjoy a delectable three-course menu crafted by executive chef Enzo Febbraro, with a portion of the proceeds donated to Three Square Food Bank, that will be offered nightly from 5 p.m. to 12 a.m. Click here to see the menu.",
+                "Las Vegas Restaurant Week offers the unique opportunity to indulge in world-class cuisine while giving back to our community. From Monday, June 19 through Friday, June 30, at Jardin, enjoy a specialty three-course menu crafted by executive chef Joseph Zanelli, with a portion of the proceeds donated to Three Square Food Bank, that will be offered nightly from 4 to 11 p.m. Click here to see the menu.",
+                "Each night, at the landmark James Beard House in New York City, celebrated chefs at the top of their game from all across the nation cook for the world’s most passionate eaters, food editors and critics. Costa di Mare executive chef Mark LoRusso had the honor of hosting one of these showcase dinners, preparing his distinctive Italian coastal cuisine to a sold-out house. Now, our guests can savor the exact menu that was offered at the James Beard House, course for course, along with the wines that were paired to each dish. A Night at the James Beard house menu is available nightly at Costa di Mare at Wynn.",
+                "Chef Rene Lenger’s popular Sunday brunch at The Country Club featuring the spirited jazz of a live Dixieland band is a weekly event not to be missed. Brunch is served buffet style and includes a carving station and selections from Lenger’s kitchen. Jazz brunch is served Sundays from 10 a.m. to 2 p.m.",
+                "Join in aperitivo, a social experience that celebrates la dolce vita. Choose from a selection of small, sharable plates, like risotto fritters filled with short rib ragu, beef carpaccio, shrimp with pancetta, bruschetta, salumi, olives and more. Indulge in the house frittura—expertly fried Mediterranean fish with crispy artichoke and pickled lemon. A variety of classic Italian cocktails, beers and wines complement the plates. Aperitivo is featured nightly in the bar at Costa di Mare from 5 to 7 p.m., perfect before a show or as appetizers before dinner.",
+                "Big Island flavors are found at the lounge at Lakeside. Poke, the beloved Hawaiian dish, is traditionally fresh fish marinated in soy and sesame. Chef David Walzog reinterprets this classic for happy hour, including bigeye tuna with cucumber, ogo and ponzu; charred octopus with pickled daikon, hearts of palm and sea beans; pork belly with pineapple, sweet chili sauce and sesame rice; or ocean trout, with avocado, yuzu tobiko and sriracha aioli. The menu ranges from Wagyu short-rib loco moco with quail egg to Portuguese sausage sliders on sweet rolls with kimchi. Don’t forget the exceptional selection of chilled oysters available at happy hour, nightly from 5:30 to 7 p.m."
+            ]
+        },
+        "type": "subcategory"
+    },
+    "UnderExperience-2": {
+        "images": "http://static.wynnlasvegas.com/~/media/WLV/Entertainment/John%20Fogerty/259_Encore_Theater_Orchestra.jpg?h=540&la=en&w=1001&vs=1&d=20170518T162855",
+        "title": "ENTERTAINMENT EXPERIENCES",
+        "description": "Create memories that will last a lifetime with an unforgettable entertainment experience at Wynn. Whether it’s the chance to meet a world-renowned entertainer before the show, an exclusive backstage tour, or even the incomparable chance to dive the aqua theater during a live Le Rêve – The Dream performance, these rare opportunities are designed to offer a one-of-a-kind event.",
+        "category": "EXPERIENCES",
+        "name": "SHOW EXPERIENCES",
+        "timeTable": "MORE ENTERTAINMENT OPTIONS\n \n\nDIANA ROSS\nJOHN FOGERTY\nMEL BROOKS\nLE REVE – THE DREAM\nEMMANUEL\nLAKE OF DREAMS\nDINNER & SHOW",
+        "experienceItem": {
+            "image": [
+                "http://static.wynnlasvegas.com/~/media/WLV/Experiences/ShowExperiences/286_Divers_Dream.jpg?h=215&la=en&w=399&vs=1&d=20170518T165236",
+                "http://static.wynnlasvegas.com/~/media/WLV/Entertainment/John%20Fogerty/289_John_Fogerty_CCR.jpg?h=215&la=en&w=399&vs=1&d=20170615T130749",
+                "http://static.wynnlasvegas.com/~/media/WLV/Entertainment/John%20Fogerty/276_JohnFogerty_Stage.jpg?h=215&la=en&w=399&vs=1&d=20170330T092058",
+                "http://static.wynnlasvegas.com/~/media/WLV/Entertainment/Mel%20Brooks/274_EncoreTheater_MelBrooks_Stage.jpg?h=215&la=en&w=399&vs=1&d=20170407T095833"
+            ],
+            "name": [
+                "DIVER’S DREAM PACKAGE",
+                "JOHN FOGERTY: THE SWAMP ULTIMATE PACKAGE",
+                "JOHN FOGERTY: THE SWAMP VIP PACKAGE",
+                "MEL BROOKS: A VIP EXPERIENCE"
+            ],
+            "intro": [
+                "Your chance to dive the aqua theater during a live performance of Le Rêve – The Dream, including a backstage tour, two-night stay and more.",
+                "A unique meet-and-greet opportunity, sound check experience, front row seat and more are included in the ultimate show package.",
+                "Get exclusive seating in the second row of the theater, a Green River cocktail and a $50 merchandise credit with the VIP package.",
+                "A meet-and-greet with the comedy legend himself, seating in the first few rows of the theater and more complete this VIP experience."
+            ]
+        },
+        "type": "subcategory"
+    },
+    "UnderExperience-3": {
+        "images": "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/946_Claude_Baruk_Claude_Model_Rouse.jpg?h=540&la=en&w=1001&vs=1&d=20170519T102156",
+        "title": "CLAUDE BARUK MAKEOVER EXPERIENCES",
+        "description": "Discover your best self with a beauty makeover by the expert stylists at the Claude Baruk Salons at Wynn and Encore. Indulge with packages designed to pamper including nail services, hair styling, professional makeup application, fashion shoots and more. Whether you’re seeking a new look to hit the town or the ultimate star treatment, Claude Baruk Salon will get you looking picture-perfect.",
+        "logo": "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/ClaudeBarukSalon-logo.png?la=en&vs=1&d=20141205T181644",
+        "category": "EXPERIENCES",
+        "name": "SALON EXPERIENCES",
+        "timeTable": "Open daily from 9 a.m. to 7 p.m.\n\n\nSALONS",
+        "experienceItem": {
+            "image": [
+                "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/980_Claude_Baruk_Salon_2017_Collection.jpg?h=215&la=en&w=399&vs=1&d=20170518T171949",
+                "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/981_Claude_Baruk_Salon_Encore_2017_Collection.jpg?h=215&la=en&w=399&vs=1&d=20170518T172005",
+                "http://static.wynnlasvegas.com/~/media/WLV/Amenities/Salons/982_Claude_Baruk_Collections_Spring2016.jpg?h=215&la=en&w=399&vs=1&d=20170518T172030"
+            ],
+            "name": [
+                "LUXURY FASHION PHOTO SHOOT",
+                "ULTIMATE STAR PHOTO SHOOT AND VIDEO",
+                "ONE NIGHT IN VEGAS PACKAGE"
+            ],
+            "intro": [
+                "An indulgent package including nails, hair, makeup and a fashion photo shoot at Claude Baruk Salon.",
+                "The ultimate fashion experience includes nails, hair, makeup and a fashion video and photo shoot at Claude Baruk Salon.",
+                "Ideal for group events, this package features makeover services, a live DJ, champagne and hors d’oeuvres."
+            ],
+            "description": [
+                "Get a fresh look before hitting the town with the luxury fashion photo shoot package. Choose from a range of options for nails, hair and makeup services, and finish with a fashion photo shoot to capture your star moment. Contact SpaSalonReservations@wynnlasvegas.com for more information or call the salon at (702) 770-3950.",
+                "The ultimate star package will get you ready for your close-up with a range of hair, nail and makeup options, followed by a behind-the-scenes video and photo shoot to capture it all. Your star look will turn heads all night. Contact SpaSalonReservations@wynnlasvegas.com for more information or call the salon at (702) 770-3950.",
+                "Ideal for entertaining a group of friends or special events, the one night in Vegas package includes hair, makeup and nail services for groups of 15 or more. Between beauty makeovers, a live DJ, champagne and hors d’oeuvres, you’ll be making memories before your night begins. Contact SpaSalonReservations@wynnlasvegas.com for more information or call the salon at (702) 770-3950."
+            ]
+        },
+        "type": "subcategory"
     },
     "UnderMeetingsAndWeddings-0": {
         "images": [
@@ -756,7 +1887,8 @@
             "http://static.wynnlasvegas.com/~/media/WLV/Meetings%20and%20Weddings/Weddings/979_Weddings_Lavender_Salon_Barbara_Kraft.jpg?h=1618&la=en&w=3000&vs=1&d=20170518T180009",
             "http://static.wynnlasvegas.com/~/media/WLV/Meetings%20and%20Weddings/Weddings/794_Weddings_Opulence_Ceremony_Cabana_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20151028T111749",
             "http://static.wynnlasvegas.com/~/media/WLV/Meetings%20and%20Weddings/Weddings/779_Commitment_Ceremony_Men_Merril_Virgen.jpg?h=540&la=en&w=1001&vs=1&d=20150604T161713",
-            "http://static.wynnlasvegas.com/~/media/WLV/Meetings%20and%20Weddings/Weddings/772_Primrose_Courtyard.jpg?h=540&la=en&w=1001&vs=1&d=20141205T181740"
+            "http://static.wynnlasvegas.com/~/media/WLV/Meetings%20and%20Weddings/Weddings/772_Primrose_Courtyard.jpg?h=540&la=en&w=1001&vs=1&d=20141205T181740",
+            "http://static.wynnlasvegas.com/~/media/WLV/Meetings%20and%20Weddings/Weddings/986_Weddings_Reception_Barbara_Kraft.jpg?h=540&la=en&w=1001&vs=1&d=20170615T134314"
         ],
         "title": "The Wedding salons at wynn las vegas",
         "description": "The Wedding Salons at Wynn Las Vegas offer an elegant setting for you to commit to the one you love. Our team of wedding experts are available to assist with all of the details so you can enjoy the day. Trust our skilled consultants, caterers, florists and photographers to help create the event of your dreams. Choose from our unique ceremony packages or create a one-of-a-kind experience all your own.",
@@ -787,7 +1919,7 @@
             "http://xslasvegas.com/book/tables"
         ],
         "timeTable": "Open Friday and Saturday from 10 p.m. to 4 a.m., on Sunday for NightSwim from 10:30 p.m. to 4:30 a.m. and Monday from 10:30 p.m. to 4 a.m. \nEVENT CALENDAR",
-        "type": "item"
+        "type": "subcategory"
     },
     "UnderNightLive-1": {
         "images": [
@@ -806,7 +1938,7 @@
             "http://surrendernightclub.com/book/tables"
         ],
         "timeTable": "Open Wednesday from 10:30 p.m. to 4 a.m.\n\nEncore Beach Club NightSwim, just steps outside of Surrender on the patio, is open Friday and Saturday from 10:30 p.m. to close.\n\nEVENT CALENDAR",
-        "type": "item"
+        "type": "subcategory"
     },
     "UnderNightLive-2": {
         "images": [
@@ -825,7 +1957,7 @@
             "http://encorebeachclub.com/book/tables"
         ],
         "timeTable": "Open Friday and Sunday from 11 a.m. to 7 p.m. and Saturday from 10 a.m. to 7 p.m. \nEncore Beach Club NightSwim is open Friday and Saturday from 10:30 p.m. to close.\nEVENT CALENDAR",
-        "type": "item"
+        "type": "subcategory"
     },
     "UnderNightLive-3": {
         "images": [
@@ -844,7 +1976,7 @@
             "http://intriguevegas.com/book/tables"
         ],
         "timeTable": "Open Thursday through Saturday at 10 p.m.\n\nEVENT CALENDAR",
-        "type": "item"
+        "type": "subcategory"
     },
     "UnderNightLive-4": {
         "images": [
@@ -857,9 +1989,6 @@
         "category": "CASINO",
         "name": "ENCORE PLAYERS LOUNGE",
         "timeTable": "Open nightly from 8 p.m. to 4 a.m.\n\nEncore Players Lounge regular operations will be suspended through Tuesday, July 18 in order to host the Wynn Summer Classic Poker Tournament.\nDETAILS",
-        "type": "item"
-    },
-    "UnderNightLive-5": {
-        "type": "item"
+        "type": "subcategory"
     }
 }

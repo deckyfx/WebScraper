@@ -1,0 +1,37 @@
+{
+  "name": "www.wynnsocial.com",
+  "tasks": [
+    {
+      "name": "NightLiveEvents",
+      "load": "http://wynnsocial.com/calendar/",
+      "delay": 0,
+      "queries": [
+        {
+          "name": "type",
+          "value": "nightlive-item"
+        }, 
+        {
+          "query": "div.extra-select-container span.customSelectInner",
+          "name": "date",
+          "property": "textContent"
+        },
+        {
+          "query": "div.uvc-calcharge > div:nth-child(3) div.calendar-events-popup",
+          "name": "data",
+          "attr": {
+            "eventid": "eventid",
+            "key": "key",
+            "venueid": "venueid",
+            "evpic": "evpic",
+            "evvname": "evvname",
+            "evvenuename": "evvenuename",
+            "evdate": "evdate",
+            "evtick": "evtick",
+            "evtable": "evtable",
+            "eventexternalticketsurl": "eventexternalticketsurl"
+          }
+        }
+      ]
+    }
+  ]
+}

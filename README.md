@@ -36,9 +36,15 @@ npm build
         "queries": [{               
             "query": string,        // Optional, get elements using querySelector
             "xpath": string,        // Optional, get elements using xpath
-            "property": "string",   // Optional, get property of acquired elements
-            "name": "string"        // Optional, name of this query task result
-            "value": any            // Optional, when this config present, the result will give this value instead of element property
+            "property": string | Array<string> | { [name:string]: string },
+                                    // Optional, get property of acquired elements
+            "attr": string | Array<string> | { [name:string]: string },
+                                    // Optional, get attribute value of acquired elements
+            "name": string          // Optional, name of this query task result
+            "index": number         // Optional, if queries result returning array, get the {index}th item
+            "value": any            // Optional, when this config present, the result will give this value instead of element property,
+            "group": Array<ParseConfig>
+                                    // Optional, process queries and group it all in one result
         }
         ...
         ]
@@ -47,6 +53,16 @@ npm build
     ]
 }
 ```
+
+## Special Parser Config
+there are some special value for queries task, that when mentioned, the program will perform special actions instead of regular command
+
+### Text Nodes property
+```
+    property: "textNodes"
+```
+when textNodes is asked, then the queries will get all non empty textNode in direct child of resolved elements 
+
 
 please see ```sample/tasks.json``` for sample 
 
@@ -66,8 +82,18 @@ with the following format
 
 please see ```sample/result.json``` for sample 
 
+# Change Log
+ - resolve elements using xpath
+ - get attributes of resolved elements
+ - obtain textNode
+ - group another query tasks as one single result
+ - get multiple properties / attributes from resolved elements
 
 # ToDo
+ - Implement Exclude Rule
+ -- Exclude Use
+ -- Exclude Anchor
+
  - Implement Extendable Caching strategy
  -- Base abstract class of Cache
  -- Memory Cache

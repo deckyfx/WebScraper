@@ -8,6 +8,7 @@ import ConfigReader = require("config-reader");
 import { JSDOM } from 'jsdom';
 import fs = require('fs');
 import _ = require('lodash');
+import { ParseConfig } from "./parseconfig";
 const wgxpath = require('wgxpath');
 
 export class ConfigCache {
@@ -70,44 +71,145 @@ export class ConfigCache {
     }
 
     parseQueries(): void{
-        for (let i = 0; i < this.config.queries.length; i++) {
-            var config = this.config.queries[i];
-            if (config.value != null && config.name) {
-                this.queryResult = this.queryResult? this.queryResult:{};
-                this.queryResult[config.name] = config.value;
-            } else {
-                let els: Array<Element | Node> = [];
-                const document = this.dom.window.document;
-                if (config.query) {                    
-                    const elements = document.querySelectorAll(config.query);
-                    for (let i = 0; i < elements.length; i++) {
-                        els.push(elements[i])
-                    }
-                } else if (config.xpath) {
-                    wgxpath.install(this.dom.window, true);
-                    let nodesSnapshot = document.evaluate(config.xpath, document, null, wgxpath.XPathResultType.ORDERED_NODE_SNAPSHOT_TYPE, null );
-                    for ( let i=0 ; i < nodesSnapshot.snapshotLength; i++ ){
-                        els.push( nodesSnapshot.snapshotItem(i) );
-                    }
+        const getValue = (el: Element | Node, getter: string, property: boolean, attr: boolean): string => {
+            let rs;
+            if (property) {
+                switch (getter) {
+                    case "textNodes": {
+                        const childs = el["childNodes"];
+                        let _rs;
+                        for (let i = 0; i < childs.length; i++) {
+                            const child = childs[i];
+                            if (child.constructor.name == "Text") {
+                                 const _rsd = child["data"].trim();
+                                 if (_rsd) {
+                                    _rs = _rs? _rs:[];
+                                    _rs.push(_rsd);
+                                 }
+                            }
+                        }                       
+                        if (_rs.length > 0) {
+                            if (_rs.length == 1) {
+                                rs = _rs[0];
+                            } else {
+                                rs = _rs;
+                            }
+                        }
+                    } break;
+                    default: {                        
+                        rs = el[getter];
+                    } break;
                 }
-                let result: string | Array<string> = [];
-                for (let el of els) {
-                    let rs = el[config.property];
+            } else if (attr) {
+                let attr = el.attributes.getNamedItem(getter);
+                if (attr) {
+                    rs = attr.value;
+                }
+            }
+            if (rs) {
+                if (typeof(rs) == "string") {
+                    rs = rs.trim();
+                }
+            }
+            return rs;
+        }
+
+        const getElements = (getter:string, query: boolean, xpath: boolean): Array<Element | Node> => {
+            let els: Array<Element | Node> = [];
+            const document = this.dom.window.document;
+            if (query) {                    
+                const elements = document.querySelectorAll(getter);
+                for (let i = 0; i < elements.length; i++) {
+                    els.push(elements[i])
+                }
+            } else if (xpath) {
+                wgxpath.install(this.dom.window, true);
+                let nodesSnapshot = document.evaluate(getter, document, null, wgxpath.XPathResultType.ORDERED_NODE_SNAPSHOT_TYPE, null );
+                for ( let i=0 ; i < nodesSnapshot.snapshotLength; i++ ){
+                    els.push( nodesSnapshot.snapshotItem(i) );
+                }
+            }
+            return els;
+        }
+
+        const parse = (cfg: ParseConfig): string | Array<any> => {
+            var result: string | Array<any>;
+            if (cfg.value != null && cfg.name) {
+                result = cfg.value;
+            } else if (cfg.group) {
+                let _result;
+                for (let _cfg of cfg.group) {
+                    let rs = parse(_cfg);
                     if (rs) {
-                        result.push(rs.trim());
-                    }                    
+                        _result = _result? _result:{};
+                        _result[_cfg.name] = rs;
+                    }
                 }
-                if (result.length > 0) {
-                    if (result.length == 1) {
-                        result = result[0];
-                    } else {      
-                        if (config.index != null && result[config.index]) {
-                            result = result[config.index];
+                result = _result;
+            } else {
+                const useQuery = cfg.query? true:false;
+                const useXpath = cfg.xpath? true:false;
+                const getter = useQuery? cfg.query:(useXpath? cfg.xpath:null);
+                let elements: Array<Element | Node> = getElements(getter, useQuery, useXpath);
+                let _result;
+                for (let el of elements) {
+                    const useProperty = cfg.property? true:false;
+                    const useAttr = cfg.attr? true:false;
+                    const getter = useProperty? cfg.property:(useAttr? cfg.attr:null);
+                    if (typeof(getter) == "string") {
+                        const value = getValue(el, getter, useProperty, useAttr)
+                        if (value) {
+                            _result = _result? _result:[];
+                            _result.push(value);
+                        }
+                    } else if (getter instanceof Array) {
+                        const getters:Array<string> = getter as Array<string>;
+                        let rs:Array<string> = [];
+                        for (let getter_n of getters) {
+                            const value = getValue(el, getter_n, useProperty, useAttr)
+                            if (value) {
+                                rs.push(value);
+                            }
+                        }
+                        if (rs.length > 0) {
+                            _result = _result? _result:[];
+                            _result.push(rs);
+                        }
+                    } else if (getter instanceof Object) {
+                        const getters:{ [name: string]: string } = getter as  { [name: string]: string };
+                        let rs:{ [name: string]: string } = {};
+                        _.forOwn(getters, (getter, name) => {
+                            const value = getValue(el, getter, useProperty, useAttr)
+                            if (value) {
+                                rs[name] = value;
+                            }
+                        });
+                        if (_.size(rs) > 0) {
+                            _result = _result? _result:[];
+                            _result.push(rs);
                         }
                     }
-                    this.queryResult = this.queryResult? this.queryResult:{};
-                    this.queryResult[config.name] = result;
                 }
+                if (_result) {                
+                    if (_result.length > 0) {
+                        if (_result.length == 1) {
+                            result = _result[0];
+                        } else if (cfg.index != null && _result[cfg.index]) {
+                            result = _result[cfg.index];
+                        } else {
+                            result = _result;
+                        }
+                    }
+                }
+            }
+            return result;
+        }
+
+        for (let config of this.config.queries) {
+            let result = parse(config);
+            if (result) {
+                this.queryResult = this.queryResult? this.queryResult:{};
+                this.queryResult[config.name] = result;
             }
         }
     }

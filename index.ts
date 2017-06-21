@@ -29,10 +29,11 @@ export class Scraper {
         comander.version(packageJSON.version)
             .option('-c, --config [filepath]', 'Configuration file path')
             .option('-o, --output [filepath]', 'Output result file path')
-            .option('-u, --url [url]', 'Load an URL, use with -q --query or -x, --xpath and -p --property')
-            .option('-q, --query [query]', 'get element with querySelector, use with -u --url and -p --property')
-            .option('-x, --xpath [xpath]', 'get element with xpath, use with -u --url and -p --property')
+            .option('-u, --url [url]', 'Load an URL, use with -q --query or -x, --xpath and -p --property or -a --attr')
+            .option('-q, --query [query]', 'get element with querySelector, use with -u --url and -p --property or -a --attr')
+            .option('-x, --xpath [xpath]', 'get element with xpath, use with -u --url and -p --property or -a --attr')
             .option('-p, --property [property]', 'get element property, use with -q --query or -x, --xpath and -u --url')
+            .option('-a, --attr [attr]', 'get element attr, use with -q --query or -x, --xpath and -u --url')
             .option('-v, --verbose', 'Verbose mode')
             .parse(process.argv);
         
@@ -42,23 +43,29 @@ export class Scraper {
             } else {
                 Logger.error("Invalid File");
             }           
-        } else if (comander.url || comander.query || comander.xpath || comander.property) {
-            if (comander.url && comander.query && comander.property || comander.url && comander.xpath && comander.property) {
+        } else if (comander.url || comander.query || comander.xpath || comander.property || comander.attr) {
+            if (comander.url && (comander.query || comander.xpath) && (comander.property || comander.attr)) {
                 try {
                     let url = (new URL(comander.url));
+                    let query = {
+                        name: "0",
+                        query: comander.query,
+                        xpath: comander.xpath
+                    };
+                    if (comander.property) {
+                        query['property'] = comander.property;
+                    } else if (comander.attr) {
+                        query['attr'] = comander.attr;
+                    }
+                    let task = {
+                        name: "0",
+                        load: url.toString(),
+                        queries: [query]
+                    };
                     this.configs = {
                         name: url.hostname,
-                        tasks: [{
-                            name: "0",
-                            load: url.toString(),
-                            queries: [{
-                                name: "0",
-                                query: comander.query,
-                                xpath: comander.xpath,
-                                property: comander.property,
-                            }]
-                        }]
-                    }
+                        tasks: [task]
+                    };
                     this.oneTaskMode = true;
                 } catch (e) {
                     Logger.error("Invalid URL", e);
@@ -71,6 +78,7 @@ export class Scraper {
             Logger.error("Invalid Parameter please see -h --help");
             return;
         }
+
         this.comander = comander;
         this.queue.on('push', (job) => { this.onAddQueue(job) });
         this.queue.on('shift', (job) => { this.onShiftQueue(job) });

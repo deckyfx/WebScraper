@@ -42,7 +42,13 @@ export class Job {
                 try {                    
                     if (this.config.useRegExp) {                      
                         const cacheFiles: Array<string> = fs.readdirSync(this.config.cacheDir);
-                        let limit = this.config.regexpLimit;
+                        let limit = cacheFiles.length;
+                        if (this.config.anchorLimit) {
+                            if (this.config.anchorLimit > 0 && limit > this.config.regexpLimit) {
+                                limit = this.config.regexpLimit;
+                            }
+                        }
+                        
                         limit = (limit && limit > 0)? limit:cacheFiles.length;
                         let i = 0;
                         for (let cacheFile of cacheFiles) {
@@ -88,7 +94,7 @@ export class Job {
                             // terminate this job and create pseudo jobs based on found links
                             let limit = links.length;
                             if (this.config.anchorLimit) {
-                                if (this.config.anchorLimit > 0 && this.config.anchorLimit > links.length) {
+                                if (this.config.anchorLimit > 0 && limit > this.config.anchorLimit) {
                                     limit = this.config.anchorLimit;
                                 }
                             }
