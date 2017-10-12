@@ -26,6 +26,11 @@ Run with specific config.json
 ./bin/scrap --config {path to your config file}
 ```
 
+For more usages
+```
+./bin/scrap --help
+```
+
 # Configuration File
 Cofiguration file are text file with JSON format with the following structure
 ```
