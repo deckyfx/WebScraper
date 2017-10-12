@@ -4,7 +4,7 @@ WebScraper
 # Introduction
 Scraping Webpage and get its contents
 
-# Usage
+# Instalation
 ```
 git clone https://github.com/deckyfx/WebScraper.git
 
@@ -13,13 +13,21 @@ cd WebScraper
 npm install -d
 
 npm build
+```
 
+# Usage
+Get this page title
+```
 ./bin/scrap --url https://github.com/deckyfx/WebScraper --xpath '//*[@id="js-repo-pjax-container"]/div[2]/div[1]/div[1]/div[1]/div/span' --property textContent
+```
 
+Run with specific config.json
+```
 ./bin/scrap --config {path to your config file}
 ```
 
 # Configuration File
+Cofiguration file are text file with JSON format with the following structure
 ```
 {
     "name": string,                 // Name of your project, required, all files wil be saved in scraper/cache/{projectname}/
